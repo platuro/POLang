@@ -1,0 +1,522 @@
+﻿language,English,German,French,Spanish,Ukranian,Russian,Japanese,Chinese,Korean
+Settings,Settings,Einstellungen,Paramètres,Configuración,Налаштування,Настройки,設定,设置,설정
+play,Play,Spielen,jouer,jugar,грати,играть,遊ぶ,玩,놀다
+HowTo,How to Play,Wie man spielt,Comment jouer,Cómo jugar,Як грати,Как играть,プレイ方法,如何玩,어떻게 플레이하는지
+Hide,Hide,Verstecken,cacher,esconder,ховатися,прятаться,隠す,隐藏,숨기다
+Back,Back,Zurück,retour,atrás,назад,Назад,戻る,返回,돌아가다
+Exit,Exit,Beenden,terminer,terminar,закінчити,завершить,終了する,结束,종료하다
+GoBack,Go Back,Zurück,retour,regresar,назад,назад,戻る,回来,돌아가다
+FreedomUnits_0,Unit: Celsius,Einheit: Celsius,unité : Celsius,unidad: Celsius,Цельсій,единица: Цельсий,セルシウス,单位：摄氏度,섭씨
+FreedomUnits_1,Unit: Fahrenheit,Einheit: Fahrenheit,Fahrenheit,Fahrenheit,Фаренгейт,Фаренгейт,ファーレンハイト,华氏度,화씨
+hideTalk_0,Disabled while hiding,Deaktiviert während verstecken,Désactivé pendant la cachette,Desactivado durante el ocultamiento,деактивовано під час ховання,Отключено во время скрытия,隠れている間に無効化,在隐藏期间禁用,숨길 때 비활성화됨
+hideTalk_1,Enabled while hiding,Aktiviert während verstecken,Activé pendant la cachette,Activado durante esconder,активувати під час схову,Активировано во время скрытия,隠れている間に有効化,在隐藏期间激活,숨기는 동안 활성화됨
+pushTalk_0,Push To Talk: Off,Push To Talk: Aus,Appuyer pour parler : Éteint,Presionar para hablar: Apagado,Push To Talk: Вимкнено,Выключить,プッシュトゥトーク：オフ,按下说话：关闭,푸시 투 토크: 꺼짐
+pushTalk_1,Push To Talk: On,Push To Talk: An,Appuyer pour parler : Allumé,Presionar para hablar: Encendido,"Натисніть, щоб говорити","Нажми, чтобы говорить",プッシュトゥトーク：オン,按下说话：开启,푸시 투 토크: 켜짐
+Quality_0,Quality: Low,Qualität: Niedrig,Qualité : Basse,Calidad: Baja,якість: низька,Качество: Низкое,品質：低い,质量：低,품질: 낮음
+Quality_1,Quality: Medium,Qualität: Mittel,Qualité : Moyenne,Calidad: Media,Якість: Середня,качество: среднее,品質：中,品质：中等,품질: 중간
+Quality_2,Quality: High,Qualität: Hoch,Qualité: Élevée,Calidad: Alta,Якість: Висока,качество: высокое,品質：高い,质量：高,품질: 높음
+Quality_3,Quality: Ultra,Qualität: Ultra,Qualité: Ultra,Calidad: Ultra,Якість: Ультра,качество: ультра,品質: ウルトラ,质量：超,품질: 울트라
+Screen_0,Screen: Fullscreen,Bildschirm: Vollbild,écran: plein écran,pantalla: pantalla completa,екран: повний екран,экран: полноэкранный,画面: フルスクリーン,屏幕：全屏,화면: 전체 화면
+Screen_1,Screen: Windowed,Bildschirm: Fenster,écran: fenêtre,pantalla: ventana,екран: вікно,экран: окно,画面：ウィンドウ,屏幕：窗口,화면: 창
+money,Money,Geld,argent,dinero,гроші,деньги,お金,金钱,돈
+level,Level,Level,niveau,Nivel,рівень,уровень,レベル,等级,레벨
+photos,Photos,Fotos,photos,fotos,фотографії,фотографии,写真,照片,사진
+to,to,zu,à,a,до,к,へ,到,에
+from,from,von,de,de,від,от,フォン,从,에서
+of,of,von,sur,en,на,на,上,在,의
+SelectYourMission,Select your mission,Wähle deine Mission,Choisis ta mission,Elige tu misión,Обери свою місію,Выбери свою миссию,ミッションを選んでください,选择你的任务,미션을 선택하세요
+StartMission,Start mission,Mission starten,Démarrer la mission,iniciar misión,розпочати місію,начать миссию,ミッションを開始する,开始任务,미션 시작하기
+RequiredLevel,Required level,Benötigt level,niveau requis,Nivel requerido,потрібен рівень,Требуется уровень,必要なレベル,需要等级,필요한 레벨
+MapInfo,Map info,Karteninfo,informations sur la carte,información del mapa,інформація про карту,информация о карте,カード情報,卡片信息,카드 정보
+difficulty_0,Amateur,Amateur,amateur,aficionado,аматор,любитель,アマチュア,业余,아마추어
+difficulty_1,Intermediate,Mittelstufe,niveau intermédiaire,nivel intermedio,середній рівень,средний уровень,中級,中级,중급
+difficulty_2,Professional,Professionell,professionnel,profesional,професійний,профессиональный,プロフェッショナル,专业,전문적인
+difficulty_3,Nightmare,Alptraum,cauchemar,pesadilla,кошмар,кошмар,悪夢,噩梦,악몽
+difficulty_4,Game Journalist,Spiele Journalist,journaliste de jeux vidéo,periodista de videojuegos,ігровий журналіст,игровой журналист,ゲームジャーナリスト,游戏记者,게임 저널리스트
+not_selected,not selected,nicht ausgewählt,non sélectionné,no seleccionado,не вибрано,не выбрано,選択されていない,未选择,선택되지 않음
+a_single,a,ein,un,uno,один,один,一つ,一个,하나
+task,Task,Aufgabe,tâche,tarea,завдання,задание,課題,任务,과제
+task_1,Detect the ghost type,Erkennen des Geistertyps,Reconnaissance du type spectre,Reconocimiento del tipo fantasma,Розпізнавання типу привида,определение типа призрака,ゴーストタイプを認識する,识别幽灵类型,유령 유형 인식
+task_completed,Task completed,Aufgabe beendet,Tâche terminée,tarea terminada,завдання завершено,Задача завершена,タスク完了,任务完成,임무 완료
+task_not_completed,Task not done,Aufgabe nicht erledigt,Tâche non accomplie,Tarea no completada,завдання не виконано,Задание не выполнено,タスク未完了,任务未完成,업무 미완료
+your_suspected_ghost,Your suspected ghost was,Ihr vermuteter Geist war,Votre esprit suspect était,Su supuesto espíritu era,їх передбачуваний дух був,Их предполагаемый дух был,彼らが思い込んでいた幽霊でした,他们怀疑的精神是,그들이 생각한 유령은
+it_was_ghost,It was actually a,Es war eigentlich ein,C'était en fait un,En realidad era un,Це було насправді,Это было на самом деле,それは実際には一つでした,其实是一个,사실 그것은
+mission_basic,Find enough evidence to identify the ghost type,"Finden Sie genügend Beweise, um den Geistertyp zu identifizieren",Trouvez suffisamment de preuves pour identifier le type spectre,Encuentra suficientes pruebas para identificar el tipo fantasma,"Знайдіть достатньо доказів, щоб ідентифікувати тип привида","Найдите достаточно доказательств, чтобы идентифицировать тип призрака",幽霊タイプを特定するのに十分な証拠を見つけてください,找到足够的证据来识别幽灵类型,유령 유형을 식별하기 위한 충분한 증거를 찾으십시오
+mission_0,Find evidence of a murder,Beweise für einen Mord finden,trouver des preuves d'un meurtre,encontrar pruebas de un asesinato,знайти докази вбивства,найти доказательства убийства,殺人の証拠を見つける,找到谋杀的证据,살인 증거를 찾다
+you_died,You died,Du bist gestorben,Tu es mort,Has muerto,Ти помер,Ты умер,あなたは死んだ,你死了,죽었어요
+progress_level,Progress to next Level,Fortschritt zum nächsten Level,Progression au niveau suivant,Progreso al siguiente nivel,прогрес до наступного рівня,Прогресс до следующего уровня,次のレベルへの進歩,进入下一级,다음 레벨로 진행
+UpgradeInfo_0,"Using ""More memory"", you can take 6 pictures instead of 3.","Wenn Sie ""Mehr Speicher"" verwenden, können Sie 6 statt 3 Bilder aufnehmen.","Si vous utilisez 'plus de mémoire', vous pouvez prendre 6 images au lieu de 3.","Si utiliza 'Más memoria', puede tomar 6 en lugar de 3 imágenes.","Якщо ви використовуєте «Більше пам'яті», ви можете зробити 6 замість 3 зображень.","Если вы используете «Больше памяти», вы можете сделать 6 вместо 3 изображений.",もっとメモリを,如果您使用“更多存储”，您可以拍摄6张而不是3张照片。,더 많은 저장공간을 사용하면 사진을 3장이 아니라 6장 찍을 수 있습니다.
+UpgradeInfo_1,"Using ""Advanced detection"" it is possible to detect hunts earlier.","Mit der ""Erweiterten Erkennung"" ist es möglich, Jagden früher zu erkennen.","Avec la 'Détection Avancée', il est possible de détecter les chasses plus tôt.","Con la 'Detección Avanzada', es posible reconocer cacerías más temprano.","За допомогою ""Розширеного виявлення"" можливо виявити полювання раніше.",С помощью «Расширенного обнаружения» возможно раньше обнаруживать охоты.,「拡張検出」により、狩りを早期に検出することが可能です。,通过“高级侦测”，可以更早地识别狩猎。,「확장된 탐지」를 사용하면 사냥을 보다 일찍 감지할 수 있습니다.
+UpgradeInfo_2,"Using ""Faster movement"" you can rotate the camera faster.","Mit ""Schnellere Bewegung"" können Sie die Kamera schneller drehen.","Avec 'Mouvement rapide', vous pouvez tourner la caméra plus rapidement.",Con 'Movimiento más rápido' puedes girar la cámara más rápido.,За допомогою «Швидший рух» ви можете швидше обертати камеру.,С помощью «Быстрое движение» вы можете быстрее вращать камеру.,「高速移動」を使うと、カメラをより速く回転させることができます。,使用“更快的移动”可以更快地旋转相机。,더 빠른 이동을 사용하면 카메라를 더 빠르게 회전할 수 있습니다.
+UpgradeInfo_3,"Using ""EMF5 Sound"" you will hear a sound when EMF5 is detected.","Mit ""EMF5 Sound"" hören Sie einen Ton, wenn EMF5 erkannt wird.","Avec 'EMF5 Sound', vous entendrez un son lorsque EMF5 est détecté.",Sonido EMF5,"За допомогою «EMF5 Sound» ви почуєте звук, коли буде виявлено EMF5.","С помощью «EMF5 Sound» вы услышите звук, когда будет обнаружен EMF5.",「EMF5サウンド」では、EMF5が検出されたときに音が鳴ります。,EMF5声音,EMF5 소리
+UpgradeInfo_4,"Using ""Faster Exorcism"" you can perform exorcism faster again","Mit ""Schnellerer Exorzismus"" können Sie den Exorzismus wieder schneller durchführen","Avec 'Exorcisme plus rapide', vous pouvez réaliser à nouveau l'exorcisme plus rapidement","Con 'Exorcismo más rápido', puedes realizar el exorcismo de nuevo más rápidamente",За допомогою «Швидшого екзорцизму» ви можете знову проводити екзорцизм швидше,С помощью «Быстрее экзорцизм» вы можете проводить экзорцизмы быстрее,「より速いエクソシズム」を使えば、エクソシズムをより速く実行できます,用“更快的驱魔”可以让您更快地进行驱魔,더 빠른 의식으로 당신은 의식을 다시 더 빨리 수행할 수 있습니다
+mission_name_0,Fisherman's House,Fisherman's House,Maison de pêcheur,Casa del Pescador,Будинок рибалки,Дом рыбака,漁師の家,渔夫的房子,어부의 집
+mission_info_0,"The fisherman's house used to be a place where many people were kidnapped.<br>There is a legend that only once a person survived, since then no other cases of kidnapping are known.","Das Haus des Fischers war früher ein Ort, an dem viele Menschen entführt wurden.<br>Es gibt eine Legende, dass nur einmal eine Person überlebt hat, seitdem sind keine weiteren Entführungsfälle bekannt.","La maison du pêcheur était auparavant un lieu où de nombreuses personnes étaient enlevées. Il existe une légende selon laquelle seulement une personne a survécu une fois, depuis lors, aucun autre cas d'enlèvement n'est connu.","La casa del pescador era antes un lugar donde muchas personas eran secuestradas. Hay una leyenda que dice que solo una vez una persona sobrevivió, desde entonces no se conocen más casos de secuestro.","Будинок рибалки колись був місцем, де багато людей було викрадено. Є легенда, що лише одна особа вижила одного разу, з тих пір не відомо про інші випадки викрадення.","Дом рыбака раньше был местом, где похищали многих людей. Существует легенда, что только один человек выжил, после чего больше случаев похищения не известно.",漁師の家は以前、多くの人々が誘拐された場所でした。伝説によると、一度だけ人が生き残り、それ以降、他の誘拐事件は知られていません。,渔夫的房子以前是一个绑架了许多人的地方。有一个传说，只有一次一个人生还，自那以后就没有其他的绑架案件了。,"어부의 집은 예전에 많은 사람들이 납치되었던 장소였습니다. 전설에 따르면 한 사람만이 살아남았고, 그 이후로는 더 이상의 납치 사건이 알려지지 않았습니다."
+mission_name_1,Mental Hospital,Nervenklinik,clinique psychiatrique,clínica neurológica,психіатрична лікарня,психиатрическая больница,神経科病院,神经病院,정신병원
+mission_info_1,"The mental hospital has been closed for years, there are rumors that the spirits of abandoned souls wander through there.","Die Nervenheilanstalt ist seit Jahren geschlossen, und es gibt Gerüchte, dass dort die Geister der verlassenen Seelen umherwandern.","L'asile est fermé depuis des années, et il y a des rumeurs que les esprits des âmes abandonnées errent là-bas.","El hospital psiquiátrico ha estado cerrado durante años, y hay rumores de que los fantasmas de las almas abandonadas deambulan por allí.","Психіатрична лікарня закрита вже багато років, і є чутки, що там блукають духи покинутих душ.","Психиатрическая больница закрыта уже много лет, и ходят слухи, что там бродят духи оставленных душ.",精神病院は何年も前に閉鎖され、その場所には見捨てられた魂の幽霊がさまよっているという噂があります。,这家神经病院已经关闭多年了，有传言说那里徘徊着被遗弃灵魂的鬼魂。,"정신병원은 수년 동안 폐쇄되었으며, 버려진 영혼들의 유령이 그곳을 배회한다는 소문이 있습니다."
+mission_name_2,Japanese Gym,Japanische Turnhalle,gymnase japonais,gimnasio japonés,японський спортзал,японский спортзал,日本の体育館,日本体育馆,일본 체육관
+mission_info_2,There are rumors that strange things happen in this Gym at night.,"Es gibt Gerüchte, dass in dieser Turnhalle nachts seltsame Dinge passieren.",Il y a des rumeurs que des choses étranges se passent dans ce gymnase la nuit.,Hay rumores de que cosas extrañas suceden en este gimnasio por la noche.,"Ходять чутки, що в цьому спортзалі вночі відбуваються дивні речі.","Есть слухи, что в этом спортзале ночью происходят странные вещи.",この体育館では夜に奇妙なことが起こるという噂があります。,有传言说，这个体育馆在夜间会发生奇怪的事情。,이 체육관에서는 밤에 이상한 일이 일어난다는 소문이 있습니다.
+mission_name_3,Country House,Landhaus,maison de campagne,casa rural,сільський будинок,деревенский дом,カントリーハウス,乡村别墅,시골집
+mission_info_3,"This country house is located far from any civilization. The existence of this house was unknown for a long time, and when it was found no one lived there.","Dieses Landhaus liegt weitab von jeglicher Zivilisation. Die Existenz dieses Hauses war lange Zeit unbekannt, und als es gefunden wurde, lebte dort niemand.","Cette maison de campagne est située loin de toute civilisation. L'existence de cette maison était inconnue pendant longtemps, et lorsqu'elle a été découverte, il n'y avait personne.","Esta casa de campo está lejos de cualquier civilización. La existencia de esta casa fue desconocida por mucho tiempo, y cuando fue encontrada, no vivía nadie allí.","Цей сільський будинок розташований далеко від будь-якої цивілізації. Існування цього будинку довгий час було невідомим, і коли його знайшли, там ніхто не жив.","Этот загородный дом находится вдали от любой цивилизации. Существование этого дома долгое время оставалось неизвестным, и когда его нашли, там никто не жил.",このカントリーハウスは、あらゆる文明から遠く離れた場所にあります。この家の存在は長い間知られておらず、発見された時には誰も住んでいませんでした。,这座乡间小屋远离任何文明。这所房子长时间以来一直未被人知晓，当它被发现时，没有人居住在那里。,"이 시골집은 어떠한 문명과도 멀리 떨어져 있습니다. 이 집의 존재는 오랫동안 알려지지 않았으며, 발견되었을 때는 아무도 살고 있지 않았습니다."
+select_guessed_ghost,Choose your guessed ghost,Wähle deinen erratenen Geist,Choisis ton esprit deviné,Elige tu espíritu adivinado,Обери свій вигаданий дух,Выбери своего догаданного духа,推測された霊を選んでください,选择你猜测的精神,선택하세요 당신의 추측한 영혼
+ghost_info_0,Select a Ghost to show information,"Wählen Sie einen Geist, um Informationen anzuzeigen",Sélectionnez un esprit pour afficher des informations,Seleccione un espíritu para mostrar información,"Виберіть духа, щоб показати інформацію","Выберите духа, чтобы отобразить информацию",情報を表示するために霊を選択してください,选择一个精灵以显示信息,정보를 표시하려면 유령을 선택하세요.
+ghost_info_Poltergeist,"A Poltergeist is a type of spirit that is known for making loud noises and moving or destroying objects. The earliest claims of poltergeists are from the 1st century, but they became more common in the early 1600s. The word poltergeist comes from the German words poltern (""to make sound"" and ""to rumble"") and Geist (""ghost"" and ""spirit""), and it means ""noisy ghost"" or ""loud spirit.""","Ein Poltergeist ist eine Art Geist, der dafür bekannt ist, laute Geräusche zu machen und Gegenstände zu bewegen oder zu zerstören. Die frühesten Berichte über Poltergeister stammen aus dem 1. Jahrhundert, aber sie wurden Anfang des 16. Das Wort Poltergeist setzt sich aus den deutschen Wörtern poltern (""Geräusche machen"" und ""rumpeln"") und Geist (""Gespenst"" und ""Geist"") zusammen und bedeutet ""lärmender Geist"" oder ""lauter Geist"".","Un poltergeist est un type d'esprit connu pour faire des bruits forts et pour déplacer ou détruire des objets. Les premiers rapports sur les poltergeists datent du 1er siècle, mais ils ont été documentés plus en détail au début du 16ème siècle. Le mot poltergeist est formé à partir des mots allemands poltern (""faire du bruit"" et ""rouler"") et Geist (""fantôme"" et ""esprit""), et signifie ""esprit bruyant"" ou ""esprit sonore"".","Un poltergeist es un tipo de espíritu que es conocido por hacer ruidos fuertes y mover o destruir objetos. Los primeros informes de poltergeists datan del siglo I, pero se hicieron más conocidos a principios del siglo XVI. La palabra Poltergeist proviene de las palabras alemanas poltern ('hacer ruido' y 'retumbar') y Geist ('fantasma' y 'espíritu'), y significa 'espíritu ruidoso' o 'espíritu ruidoso'.","Полтергейст - це вид духа, відомий тим, що він видає гучні звуки та переміщує або знищує предмети. Найраніші звіти про полтергейсти датуються першим століттям, але вони набули популярність на початку 16 століття. Слово 'Полтергейст' походить від німецьких слів полтерн ('робити шум' та 'гриміти') і гайст ('привид' та 'дух'), що означає 'шумний дух' або 'гучний дух'.","Полтергейст - это вид духа, известного тем, что он издает громкие звуки и перемещает или разрушает предметы. Первые сообщения о полтергейстах появились в 1 веке, но они были особенно заметны в начале 16 века. Слово полтергейст образовано от немецких слов poltern («шуметь» и «греметь») и Geist («призрак» и «дух»), и означает «шумный дух» или «громкий дух».",ポルターガイストは、騒音を発したり物を動かしたり壊したりすることで知られている一種の霊です。ポルターガイストに関する最初の報告は1世紀から存在していますが、16世紀初頭に広まりました。ポルターガイストという言葉は、ドイツ語の「poltern」（「音を立てる」、「ゴトゴトと動く」の意）と「Geist」（「幽霊」、「霊」の意）から成り、「騒がしい霊」や「うるさい霊」を意味します。,一个骚灵是一种以制造噪音和移动或破坏物品而闻名的鬼魂。关于骚灵的最早报告可以追溯到第一世纪，但它们在16世纪初开始更广为人知。‘骚灵’这个词是由德语词汇‘poltern’（制造噪音、轰隆声）和‘Geist’（幽灵、鬼魂）组合而成，意味着‘吵闹的灵魂’或‘吵闹的鬼魂’。,"폴터가이스트는 소음을 내고 물건을 움직이거나 파괴하는 것으로 알려진 일종의 귀신입니다. 폴터가이스트에 대한 가장 초기의 보고는 1세기에 나타났지만, 16세기 초에 더 잘 알려지게 되었습니다. 폴터가이스트라는 단어는 독일어로 '소리를 내다' 및 '폴짝거리다'라는 뜻의 'poltern'과 '귀신' 또는 '정령'을 의미하는 'Geist'가 합쳐져 '시끄러운 귀신' 또는 '소란스러운 귀신'을 의미합니다."
+ghost_info_Dvorovoi,"A Dvorovoi is a East Slavic spirit. The Dvorovoi ruled over farming lands, cattle sheds and stables. Some people believed that he was a substitute for the Domovoi because of his functions and characteristics. The Dvorovoi was considered less kind than the Domovoi. ","Ein Dvorovoi ist ein ostslawischer Geist. Der Dvorovoi herrschte über Ackerland, Viehställe und Ställe. Manche Menschen glaubten, dass er aufgrund seiner Funktionen und Eigenschaften ein Ersatz für den Domovoi war. Der Dvorovoi galt als weniger gütig als der Domovoi. ","Un Dvorovoi est un esprit est-slave. Le Dvorovoi régnait sur les terres agricoles, les étables et les écuries. Certaines personnes croyaient qu'il était un substitut au Domovoi en raison de ses fonctions et de ses caractéristiques. Le Dvorovoi était considéré comme moins bienveillant que le Domovoi.","Un Dvorovoi es un espíritu eslavo oriental. El Dvorovoi gobernaba sobre tierras de cultivo, establos y graneros. Algunas personas creían que debido a sus funciones y características, era un sustituto del Domovoi. El Dvorovoi se consideraba menos benévolo que el Domovoi.","Дворовий — це східнослов'янський дух. Дворовий володарював над сільськогосподарськими угіддями, хлівами та стайнями. Деякі люди вірили, що через свої функції та властивості він був заміною для Домового. Дворовий вважався менш милосердним, ніж Домовий.","Дворовой - это восточнославянский дух. Дворовой властвовал над пашней, скотными дворами и стойлами. Некоторые люди считали, что он из-за своих функций и характеристик заменял Домового. Дворовой считался менее добрым, чем Домовой.",ドヴォロヴォイは東スラブの霊です。ドヴォロヴォイは農地、家畜小屋、および厩舎を支配していました。ある人々は、彼の機能と特性により、ドモヴォイの代わりであったと信じていました。ドヴォロヴォイはドモヴォイよりも優しさが少ないとされていました。,多沃沃伊是东斯拉夫的一种精神。它统治着农田、牲畜棚和马棚。,"Dvorovoi는 동슬라브의 영혼입니다. Dvorovoi는 농지, 가축우리 및 마구간을 지배했습니다. 어떤 사람들은 그의 기능과 특성 때문에 그가 Domovoi의 대체물이었다고 믿었습니다. Dvorovoi는 Domovoi보다 덜 자비로운 것으로 여겨졌습니다."
+ghost_info_Jinn,"A Jinn is a spiritual entity created from ""smokeless fire,"" which possesses intellect and inhabits the world along with humans, satans, and angels. Only in rare situations jinns become visible to people.","Ein Dschinn ist ein geistiges Wesen, das aus „rauchlosem Feuer“ erschaffen wurde, einen Verstand besitzt und zusammen mit Menschen, Satanen und Engeln die Welt bewohnt. Nur in seltenen Situationen werden Dschinns für die Menschen sichtbar.","Un djinn est un être spirituel créé à partir d’un 'feu sans fumée', doué d'intelligence, et qui habite le monde avec les humains, les satans et les anges. Seulement dans des situations rares, les djinns deviennent visibles pour les humains.","Un djinn es un ser espiritual que fue creado de 'fuego sin humo', posee una mente y habita el mundo junto con humanos, satanes y ángeles. Solo en situaciones raras se hacen visibles los djinns para los humanos.","Джинн - це духовна істота, яка була створена з «бездимного вогню», має розум і разом з людьми, сатанами та ангелами населяє світ. Лише у рідкісних ситуаціях джинни стають видимими для людей.","Джинн - это духовное существо, созданное из 'бездымного огня', обладающее разумом и населяющее мир вместе с людьми, сатанами и ангелами. Только в редких ситуациях джинны становятся видимыми для людей.",ジンは「無煙の火」から創造された精神的な存在で、知性を持ち、人間、悪魔、天使と共にこの世を共有しています。ジンが人間に見えるのは稀な状況でのみです。,神灵是一种由“无烟之火”创造出来的精神存在，拥有思想，并与人类、撒旦和天使一起居住在世界上。只有在罕见的情况下，人们才能看到神灵。,"진은 '연기 없는 불'에서 창조된 정신적인 존재로, 마음을 가지고 있으며 사람들, 사탄, 천사들과 함께 세계를 살아갑니다. 드물게 진이 사람들에게 보이는 경우가 있습니다."
+ghost_info_Moroi,A Moroi is a spirit from Romanian folklore. A female moroi is called moroaica. Some visions suggest that a moroi is a spirit of a dead person who leaves the grave to draw energy from the living.,"Ein Moroi ist ein Geist aus der rumänischen Folklore. Ein weiblicher Moroi wird Moroaica genannt. Einige Visionen legen nahe, dass ein Moroi der Geist eines Toten ist, der das Grab verlässt, um den Lebenden Energie zu entziehen.",Un Moroi est un esprit de la folklore roumaine. Une Moroi féminine est appelée Moroaica. Certaines visions suggèrent qu'un Moroi est l'esprit d'un mort qui quitte la tombe pour drainer l'énergie des vivants.,Un Moroi es un espíritu de la folklore rumana. A un Moroi femenino se le llama Moroaica. Algunas visiones sugieren que un Moroi es el espíritu de un muerto que abandona la tumba para drenar energía de los vivos.,"Морой - це дух з румунського фольклору. Жіночий Морой називається Мороаїка. Деякі видіння вказують на те, що Морой - це дух померлого, який залишає могилу, щоб відбирати енергію у живих.","Морой - это дух из румынской фольклора. Женщина-морой называется Морояка. Некоторые видения предполагают, что морой - это дух умершего, который покидает могилу, чтобы отнимать энергию у живых.",モロイはルーマニアの民話に出る霊です。女性のモロイはモロアイカと呼ばれます。あるビジョンによれば、モロイは墓を出て生者からエネルギーを奪う死者の霊であるとされています。,摩洛伊是罗马尼亚民间传说中的一种鬼魂。女性的摩洛伊被称为摩洛伊卡。一些说法表明，摩洛伊是一种死者的灵魂，它会离开坟墓来吸取活人的能量。,모로이는 루마니아 민속 전설에서 나오는 귀신입니다. 여성 모로이는 모로아이카라고 불립니다. 일부 비전은 모로이가 무덤을 떠나 산자의 에너지를 빼앗는 죽은 자의 영혼이라고 제안합니다.
+ghost_info_Obake,"Obake are the traditional spirits of Japanese folklore. The word ""obake"" is derived from the Japanese verb bakeru (to change). Therefore, obake are supernatural beings who changed into some kind of supernatural being and went from the natural world to the supernatural one.","Obake sind die traditionellen Geister der japanischen Folklore. Das Wort ""obake"" leitet sich von dem japanischen Verb bakeru (sich verändern) ab. Obake sind also übernatürliche Wesen, die sich in eine Art übernatürliches Wesen verwandelt haben und von der natürlichen Welt in die übernatürliche Welt gewechselt sind.","Les obake sont les fantômes traditionnels du folklore japonais. Le mot 'obake' vient du verbe japonais bakeru (se transformer). Ainsi, les obake sont des êtres surnaturels qui se sont transformés en une sorte d'entité surnaturelle et ont migré du monde naturel au monde surnaturel.",Obake son los fantasmas tradicionales de la folclor japonesa. La palabra 'obake' deriva del verbo japonés bakeru (cambiar). Así que los obake son seres sobrenaturales que se han transformado en una especie de ser sobrenatural y han pasado del mundo natural al mundo sobrenatural.,"Обаке — це традиційні привиди японського фольклору. Слово 'обаке' походить від японського дієслова 'bakeru' (змінюватися). Таким чином, Обаке — це надприродні істоти, які перетворилися на певний вид надприродних істот і перейшли з природного світу в надприродний світ.","Обакэ - это традиционные призраки японского фольклора. Слово «обакэ» происходит от японского глагола bakeru (изменяться). Таким образом, обакэ - это сверхъестественные существа, которые превратились в какое-то сверхъестественное существо и перешли из естественного мира в сверхестественный.",お化けは日本の伝統的な民間伝承の幽霊です。「お化け」という言葉は日本語の動詞「化ける」（変わる）に由来しています。したがって、お化けは超自然的な存在に変身し、自然界から超自然界へと移行した超自然的な存在です。,妖怪是日本民间传说中的传统幽灵。'妖怪'这个词来源于日本动词'bakeru'（变化）。因此，妖怪是一种能够变化成超自然生物，并从自然界转变到超自然界的超自然存在。,오바케는 일본 민속에 전통적인 유령입니다. '오바케'라는 단어는 일본어 동사 '바케루'(변하다)에서 유래되었습니다. 오바케는 자연 세계에서 초자연적 세계로 변화하고 이동한 초자연적 존재들입니다.
+ghost_info_Phantom,"The word Phantom comes from the Greek and stands for an apparition or a ghost. It could also be translated as something that is not real, like a dream or an illusion. In most fairy tales, phantoms are just an illusion of something that already exists. It is possible to say that the phantom is a spirit from someone's dream.","Das Wort Phantom kommt aus dem Griechischen und steht für eine Erscheinung oder einen Geist. Man könnte es auch mit etwas übersetzen, das nicht real ist, wie ein Traum oder eine Illusion. In den meisten Märchen sind Gespenster nur eine Illusion von etwas, das bereits existiert. Man kann sagen, dass das Phantom ein Geist aus dem Traum eines Menschen ist.","Le mot 'phantom' vient du grec et signifie une apparition ou un esprit. On pourrait aussi le traduire par quelque chose qui n'est pas réel, comme un rêve ou une illusion. Dans la plupart des contes, les fantômes sont juste une illusion de quelque chose qui existe déjà. On peut dire que le fantôme est un esprit issu du rêve d'une personne.","La palabra fantasma proviene del griego y representa una aparición o un espíritu. También se podría traducir como algo que no es real, como un sueño o una ilusión. En la mayoría de los cuentos de hadas, los fantasmas son solo una ilusión de algo que ya existe. Se puede decir que el fantasma es un espíritu del sueño de una persona.","Слово фантом походить з грецької мови і означає явище або дух. Його також можна перекласти як щось нереальне, як сон чи ілюзія. У більшості казок привиди є лише ілюзією чогось, що вже існує. Можна сказати, що фантом - це дух зі сну людини.","Слово 'фантом' происходит из греческого языка и означает явление или призрак. Это также можно перевести как что-то нереальное, например, как сон или иллюзию. В большинстве сказок призраки являются лишь иллюзией чего-то, что уже существует. Можно сказать, что фантом - это дух из сна человека.",言葉「ファントム」はギリシャ語から来ており、現象や幽霊を意味します。それはまた、夢や幻影のような実在しないものとも訳されることがあります。ほとんどのおとぎ話では、幽霊は既に存在する何かの幻だけです。ファントムは人の夢の中の幽霊だと言えます。,“Phantom”这个词来自希腊语，意味着幽灵或现象。它也可以指不真实的梦境或幻象。,"“팬텀”은 그리스어에서 왔으며, 현상이나 유령을 의미합니다. 또한 꿈이나 환상을 나타낼 때도 사용됩니다."
+ghost_info_Raiju,"A Raiju is the companion of Raijin, the Shinto god of lightning. The spirit is generally calm and harmless, but during thunderstorms it becomes restless and jumps around in trees, fields and even buildings. Its cry sounds like thunder.","Ein Raiju ist der Begleiter von Raijin, dem Shinto-Gott der Blitze. Der Geist ist im Allgemeinen ruhig und harmlos, aber bei Gewitter wird er unruhig und springt in Bäumen, Feldern und sogar Gebäuden herum. Sein Schrei klingt wie Donner.","Un Raiju est le compagnon de Raijin, le dieu shinto de la foudre. L'esprit est généralement calme et inoffensif, mais devient agité pendant les orages, sautant dans les arbres, les champs et même les bâtiments. Son cri ressemble à du tonnerre.","Un Raiju es el compañero de Raijin, el dios Shinto de los relámpagos. El espíritu es generalmente tranquilo e inofensivo, pero durante las tormentas se vuelve inquieto y salta en árboles, campos e incluso edificios. Su grito suena como el trueno.","Райдзю є супутником Райдзіна, шинтоїстського бога блискавок. Дух зазвичай спокійний і нешкідливий, але під час грози він стає неспокійним і стрибає по деревах, полях та навіть будівлях. Його крик звучить як грім.","Райдзю является спутником Райдзина, шинтоистского бога молний. Этот дух обычно спокойный и безвредный, но во время грозы он становится неспокойным и прыгает по деревьям, полям и даже зданиям. Его крик звучит как гром.",雷獣は雷神、神道の雷の神の伴侶です。この精霊は通常は穏やかで無害ですが、雷雨の時には落ち着かなくなり、木、野原、そして建物を跳び回ります。その叫び声は雷のように響きます。,Raiju 是 Raijin 的伴侣，Raijin 是神道教的雷神。这个精灵通常是平静和无害的，但在暴风雨时，它会变得不安，并在树木、田野甚至建筑物中跳跃。它的尖叫声听起来像雷声。,"라이주는 신도 신 라이진, 번개의 신의 동반자입니다. 이 영혼은 일반적으로 차분하고 해가 없지만 폭풍우가 칠 때는 불안해하며 나무, 들판, 심지어 건물 위에서 뛰어다닙니다. 그의 비명 소리는 천둥과 같습니다."
+ghost_info_Shade,A Shade is the spirit of a dead person who lives in the underworld. Some believe that a Shade is a shy spirit.,"Ein Shade ist der Geist eines Toten, der in der Unterwelt lebt. Manche glauben, dass ein Shade ein schüchterner Geist ist.",Un Shade est l'esprit d'un mort qui vit dans le monde souterrain. Certains croient qu'un Shade est un esprit timide.,Un Shade es el espíritu de un muerto que vive en el inframundo. Algunos creen que un Shade es un espíritu tímido.,"Шейд - це дух померлого, який живе в підземному світі. Деякі вірять, що шейд - це сором'язливий дух.","Шейд - это дух умершего, живущий в загробном мире. Некоторые считают, что шейд - это застенчивый призрак.",シェードは冥界に住む死者の精神です。ある人々はシェードが内気な霊であると信じています。,一个Shade是一个死者的灵魂，居住在阴间。有些人认为Shade是一个害羞的鬼魂。,쉐이드는 저승에서 사는 죽은 자의 영혼입니다. 어떤 사람들은 쉐이드가 수줍은 영혼이라고 믿습니다.
+ghost_info_Spirit,A Spirit is a common ghost. They are passive and only attack when they have to.,"Ein Spirit ist ein gewöhnlicher Geist. Sie sind passiv und greifen nur an, wenn sie es müssen.",Un esprit est un fantôme ordinaire. Ils sont passifs et n'attaquent que lorsqu'ils en ont besoin.,Un espíritu es un fantasma común. Son pasivos y solo atacan cuando es necesario.,"Спірит - це звичайний дух. Вони пасивні і атакують, лише коли це необхідно.",Дух - это обычный призрак. Они пассивны и атакуют только в случае необходимости.,スピリットは普通の幽霊です。彼らは受動的で、必要があるときにのみ攻撃します。,一个精灵是一个普通的鬼魂。它们是被动的，只有在必要时才会攻击。,스피릿은 보통의 영혼입니다. 그들은 수동적이며 필요할 때만 공격합니다.
+ghost_info_Yokai,A Yokai is a spirit of Japanese folklore and similar to demons. Yokai often live near human settlements because they are attracted to people or the warmth of human houses through fire.,"Ein Yokai ist ein Geist der japanischen Folklore und ähnelt den Dämonen. Yokai leben oft in der Nähe menschlicher Siedlungen, weil sie von Menschen oder der Wärme der menschlichen Häuser durch Feuer angezogen werden.",Un yokai est un esprit du folklore japonais et ressemble aux démons. Les yokai vivent souvent près des établissements humains parce qu'ils sont attirés par les humains ou la chaleur des maisons humaines par le feu.,"Un Yokai es un espíritu del folclore japonés y se parece a los demonios. Los Yokai a menudo viven cerca de los asentamientos humanos, porque son atraídos por las personas o el calor de las casas humanas a través del fuego.","Йокай - це дух японської фольклору та схожий на демонів. Йокаї часто живуть поблизу людських поселень, оскільки їх приваблюють люди або тепло людських домівок від вогню.","Ёкай — это дух японского фольклора, похожий на демонов. Ёкаи часто живут рядом с человеческими поселениями, потому что их привлекают люди или тепло человеческих домов от огня.",妖怪は日本の民間伝承の霊で、悪魔に似ています。妖怪は人間の集落の近くに住んでいることが多いです。それは人間や人間の家の火の温もりに引かれるからです。,妖怪是日本民间传说中的一种精神，类似于恶魔。妖怪经常生活在人类聚居地附近，因为它们被人类或人类住房中的火焰的热量所吸引。,"요괴는 일본 민속지의 정령으로, 악마와 비슷합니다. 요괴는 종종 인간의 정착지 근처에서 살며, 인간이나 인간의 집에서 나오는 불의 온기에 이끌립니다."
+ghost_info_Yurei,"A Yurei is a Japanese spirit. They are unable to live peacefully after death because of specific events. This may be the result of, for example, the lack of a proper funeral.","Ein Yurei ist ein japanischer Geist. Sie sind aufgrund bestimmter Ereignisse nicht in der Lage, nach dem Tod in Frieden zu leben. Dies kann zum Beispiel durch das Fehlen einer angemessenen Beerdigung verursacht werden.","Un Yurei est un esprit japonais. Ils ne sont pas capables de vivre en paix après la mort en raison de certains événements. Cela peut être causé, par exemple, par l'absence de funérailles appropriées.","Un Yurei es un espíritu japonés. No pueden vivir en paz después de la muerte debido a ciertos eventos. Esto puede ser causado, por ejemplo, por la falta de un funeral adecuado.","Юрей - це японський привид. Вони не можуть жити в мирі після смерті через певні події. Наприклад, це може бути спричинено відсутністю належного поховання.","Юрэй - это японский дух. Они не могут жить в мире после смерти из-за определенных событий. Это может быть, например, вызвано отсутствием надлежащих похорон.",ユーレイは日本の幽霊です。彼らは特定の出来事のために死後に平和に生きることができません。これは例えば適切な葬儀が欠如していることによって引き起こされる可能性があります。,幽灵是一种日本的鬼魂。由于特定事件，它们在死后无法安息。例如，这可能是由于缺乏适当的葬礼造成的。,"유레이는 일본의 귀신입니다. 특정 사건으로 인해 죽음 후에 평화롭게 살 수 없습니다. 예를 들어, 적절한 장례식이 없는 경우가 이에 해당될 수 있습니다."
+guide_name_0,Ghosts,Geister,fantômes,fantasmas,привиди,призраки,幽霊,鬼魂,유령들
+guide_info_0,"A ghost can have different forms, there are different types of ghosts. Depending on which ghost you meet, they can have different characteristics, strengths and weaknesses.
+
+They move around the house, there are certain places where they are reported to stay longer. A kind of hotspot of activity.
+
+As they roam, they leave behind different kinds of evidence that can be useful for the indendification of the respective spirits.","Ein Geist kann verschiedene Formen annehmen, es gibt verschiedene Arten von Geistern. Je nachdem, welchem Geist du begegnest, können sie unterschiedliche Eigenschaften, Stärken und Schwächen haben.
+
+Sie bewegen sich im Haus herum, es gibt bestimmte Orte, an denen sie länger verweilen. Eine Art Hotspot der Aktivität.
+
+Während sie umherziehen, hinterlassen sie verschiedene Arten von Beweisen, die zur Identifizierung der jeweiligen Geister nützlich sein können.","Un esprit peut prendre différentes formes, il existe différents types d'esprits. Selon l'esprit que tu rencontres, ils peuvent avoir différentes caractéristiques, forces et faiblesses. Ils se déplacent dans la maison, il y a des endroits spécifiques où ils restent plus longtemps. Une sorte de point chaud de l'activité. Pendant qu'ils se déplacent, ils laissent différents types de preuves qui peuvent être utiles pour identifier les esprits concernés.","Un espíritu puede tomar varias formas, hay diferentes tipos de espíritus. Dependiendo del espíritu con el que te encuentres, pueden tener diferentes características, fortalezas y debilidades. Se mueven por la casa, hay lugares específicos donde se detienen más tiempo. Una especie de punto caliente de actividad. Mientras se desplazan, dejan diferentes tipos de evidencias que pueden ser útiles para identificar a los respectivos espíritus.","Дух може набувати різних форм, існує різні види духів. Залежно від того, з яким духом ви зустрінетеся, вони можуть мати різні характеристики, сили та слабкості. Вони переміщаються по будинку, є певні місця, де вони затримуються довше. Своєрідний гарячий пункт активності. Поки вони пересуваються, залишають різні види доказів, які можуть бути корисними для ідентифікації відповідних духів.","Призрак может принимать разные формы, существуют разные виды призраков. В зависимости от того, с каким призраком вы столкнетесь, они могут иметь различные характеристики, сильные и слабые стороны.
+
+Они перемещаются по дому, есть определенные места, где они задерживаются дольше. Своего рода горячие точки активности.
+
+Пока они перемещаются, они оставляют различные виды доказательств, которые могут быть полезны для идентификации соответствующих призраков.",幽霊は様々な形を取ることができます。幽霊にはいくつかの種類があります。出会う幽霊によって、彼らは異なる特性、強さ、弱点を持っています。彼らは家の中を動き回り、より長く滞在する特定の場所があります。活動のホットスポットのようなものです。彼らが移動する間、彼らは幽霊を特定するのに役立つ様々な種類の証拠を残します。,一个鬼魂可以采取不同的形式，有不同类型的鬼魂。根据你遇到的鬼魂，它们可以具有不同的特性、优点和缺点。它们在房子里移动，有些地方它们会停留更久。这些地方是活动的热点。当它们四处游荡时，它们会留下不同类型的证据，这些证据可以用来识别不同的鬼魂。,"유령은 다양한 형태를 취할 수 있으며, 유령의 종류도 여러 가지가 있습니다. 만나는 유령에 따라 그들은 다양한 특성, 강점 및 약점을 가질 수 있습니다. 그들은 집 안을 돌아다니며, 더 오래 머무르는 특정 장소들이 있습니다. 활동의 핫스팟이라고 할 수 있는 곳입니다. 돌아다니면서 그들은 다양한 종류의 증거를 남기며, 이것은 각각의 유령을 식별하는데 유용할 수 있습니다."
+guide_name_1,Tools,Werkzeuge,outils,herramientas,інструменти,инструменты,道具,工具,도구
+guide_info_1,"There are several tools to help you identify the ghost.
+
+With the UV tool you can see things that you cannot see with normal light, there are footprints and fingerprints. If these are detected, they are UV evidence.
+
+With the EMF Tool it is possible to see if the ghost is in the room. The camera is offline during the process, which means that the electrical radiation from the camera does not affect the EMF. EMF can indicate all kinds of activities. Tip: If the EMF is 2 while you are on the EMF screen, chances are good that the ghost is in the room.
+
+With the Temperature Tool it is possible to measure the temperature at the spot you are pointing at. A temperature below freezing is a evidence.
+
+With the Voice tool it is possible to communicate with the ghost without speaking into the microphone, if the ghost answers, this is a evidence.","Es gibt mehrere Werkzeuge, die dir helfen können, den Geist zu identifizieren.
+
+Mit dem UV-Werkzeug kannst du Dinge sehen, die du mit normalem Licht nicht sehen kannst, wie Fußabdrücke und Fingerabdrücke. Wenn diese entdeckt werden, sind es UV-Beweise.
+
+Mit dem EMF-Werkzeug ist es möglich zu erkennen, ob der Geist im Raum ist. Die Kamera ist während des Vorgangs offline, was bedeutet, dass die elektrische Strahlung der Kamera das EMF nicht beeinflusst. EMF kann alle Arten von Aktiviäten anzeigen. Tipp: Wenn das EMF 2 anzeigt, während du auf dem EMF-Bildschirm bist, stehen die Chancen gut, dass der Geist im Raum ist.
+
+Mit dem Temperaturwerkzeug ist es möglich, die Temperatur an der Stelle, auf die du zeigst, zu messen. Eine Temperatur unter dem Gefrierpunkt ist ein Beweis.
+
+Mit dem Sprachwerkzeug ist es möglich, mit dem Geist zu kommunizieren, ohne ins Mikrofon zu sprechen. Wenn der Geist antwortet, ist dies ein Beweis.","Il existe plusieurs outils qui peuvent t'aider à identifier l'esprit.
+
+Avec l'outil UV, tu peux voir des choses que tu ne peux pas voir avec une lumière normale, comme des empreintes de pas et des empreintes digitales. Lorsque celles-ci sont détectées, ce sont des preuves UV.
+
+Avec l'outil EMF, il est possible de détecter si l'esprit est dans la pièce. La caméra est hors ligne pendant le processus, ce qui signifie que le rayonnement électrique de la caméra n'affecte pas l'EMF. L'EMF peut montrer tous types d'activités. Astuce : Si l'EMF indique 2 pendant que tu es sur l'écran EMF, il y a de bonnes chances que l'esprit soit dans la pièce.
+
+Avec l'outil de température, il est possible de mesurer la température à l'endroit que tu pointes. Une température sous le point de congélation est une preuve.
+
+Avec l'outil vocal, il est possible de communiquer avec l'esprit sans parler dans le microphone. Si l'esprit répond, c'est une preuve.","Hay varias herramientas que pueden ayudarte a identificar al fantasma.
+
+Con la herramienta UV puedes ver cosas que no puedes ver con luz normal, como huellas y huellas dactilares. Si estos son descubiertos, son evidencias UV.
+
+Con la herramienta EMF es posible detectar si el fantasma está en la habitación. La cámara está fuera de línea durante el proceso, lo que significa que la radiación eléctrica de la cámara no afecta al EMF. EMF puede mostrar todo tipo de actividades. Consejo: Si el EMF muestra 2 mientras estás en la pantalla del EMF, hay buenas posibilidades de que el fantasma esté en la habitación.
+
+Con la herramienta de temperatura es posible medir la temperatura en el lugar al que apuntas. Una temperatura bajo el punto de congelación es una evidencia.
+
+Con la herramienta de voz es posible comunicarse con el fantasma sin hablar en el micrófono. Si el fantasma responde, esto es una evidencia.","Існує кілька інструментів, які можуть допомогти тобі ідентифікувати привида. За допомогою УФ-інструменту ти можеш бачити речі, які не видно звичайним світлом, такі як відбитки ніг та пальців. Якщо це виявлено, то це УФ-докази. За допомогою інструменту ЕМП можна визначити, чи є привид у кімнаті. Камера в цей час вимкнена, що означає, що електричне випромінювання камери не впливає на ЕМП. ЕМП може показувати всі типи активності. Порада: якщо ЕМП показує 2, коли ти дивишся на екран ЕМП, шанси великі, що привид у кімнаті. З інструментом для вимірювання температури можна визначити температуру в місці, на яке ти вказуєш. Температура нижче точки замерзання є доказом. За допомогою інструменту для спілкування можна спілкуватися з привидом, не користуючись мікрофоном. Якщо привид відповідає, це доказ.","Есть несколько инструментов, которые могут помочь идентифицировать призрака. С помощью УФ-инструмента вы можете видеть вещи, которые не видны при обычном свете, например отпечатки ног и пальцев. Если эти следы обнаружены, это УФ-доказательства. С помощью инструмента ЭМП можно определить, присутствует ли призрак в помещении. Камера в это время отключена, что означает, что электрическое излучение камеры не влияет на ЭМП. ЭМП может показывать все виды активности. Совет: если ЭМП показывает 2, когда вы находитесь на экране ЭМП, шансы хороши, что призрак находится в комнате. С помощью температурного инструмента можно измерить температуру в месте, на которое вы указываете. Температура ниже точки замерзания является доказательством. С помощью голосового инструмента можно общаться с призраком, не говоря в микрофон. Если призрак отвечает, это доказательство.",いくつかのツールが霊を特定するのを助けることができます。UVツールやEMFリーダーなどがあります。,有多种工具可以帮助你确定鬼魂的类型，例如UV灯、EMF读数器等。,여러 가지 도구가 귀신을 확인하는 데 도움을 줄 수 있습니다. 예를 들어 UV 도구와 EMF 리더 등이 있습니다.
+guide_name_2,Exorcism,Exorzismus,exorcisme,exorcismo,екзорцизм,экзорцизм,エクソシズム,驱魔,퇴마
+guide_info_2,"Exorcism is a process in which you free the ghost.
+
+In order to free the ghost you must first know what kind of ghost it is, after you have selected the ghost it is now possible to exorcise the ghost. Here you must first select the room where the ghost is at the moment, this is important because otherwise the process will fail.
+
+If everything goes perfectly, the ghost is now freed and the house is clear.
+
+If not, well...","Exorzismus ist ein Prozess, bei dem du den Geist befreist.
+
+Um den Geist zu befreien, musst du zunächst wissen, um welche Art von Geist es sich handelt. Nachdem du den Geist ausgewählt hast, ist es nun möglich, den Exorzismus durchzuführen. Hierbei musst du zuerst den Raum auswählen, in dem sich der Geist gerade befindet. Dies ist wichtig, denn sonst wird der Prozess scheitern.
+
+Wenn alles perfekt verläuft, ist der Geist nun befreit und das Haus ist klar.
+
+Wenn nicht, nun ja...","L'exorcisme est un processus où tu libères l'esprit. Pour libérer l'esprit, tu dois d'abord savoir de quel type d'esprit il s'agit. Après avoir choisi l'esprit, il est maintenant possible de réaliser l'exorcisme. Ici, tu dois d'abord choisir la pièce où se trouve actuellement l'esprit. Cela est important, car sinon le processus échouera. Si tout se passe parfaitement, l'esprit est maintenant libéré et la maison est claire. Sinon, eh bien...","El exorcismo es un proceso mediante el cual liberas el espíritu. Para liberar el espíritu, primero debes saber qué tipo de espíritu es. Después de haber seleccionado el espíritu, ahora es posible realizar el exorcismo. En este punto, primero debes seleccionar la habitación en la que se encuentra el espíritu. Esto es importante, de lo contrario, el proceso fallará. Si todo va perfectamente, el espíritu ahora está liberado y la casa está clara. Si no, bueno...","Екзорцизм — це процес, під час якого ти звільняєш дух. Щоб звільнити дух, спочатку потрібно знати, якого роду цей дух. Після вибору духа, тепер можливо провести екзорцизм. При цьому спочатку потрібно вибрати кімнату, в якій знаходиться дух. Це важливо, інакше процес провалиться. Якщо все пройде ідеально, дух тепер звільнений і будинок чистий. Якщо ні, ну... знаєте.","Экзорцизм - это процесс, при котором вы освобождаете дух. Чтобы освободить дух, сначала вы должны знать, какого рода это дух. После того, как вы выбрали духа, теперь возможно провести экзорцизм. Здесь вам нужно сначала выбрать комнату, в которой находится дух. Это важно, иначе процесс потерпит неудачу. Если все проходит идеально, дух теперь освобожден, и дом чист. Если нет, ну...",エクソシズムは霊を解放するプロセスです。霊を解放するためには、まずどのような種類の霊かを知る必要があります。霊を選択した後、エクソシズムを行うことができます。この際、まず霊が現在いる部屋を選ぶ必要があります。これは重要です、そうしなければプロセスは失敗します。すべてが完璧に進んだ場合、霊は解放され、家はクリアです。そうでなければ、まあ...,驱魔是一个解放精神的过程。要释放精神，你首先需要知道这是什么类型的精神。选择了精神后，现在可以进行驱魔。在这里，你首先需要选择精神所在的房间。这很重要，否则过程将失败。如果一切顺利，精神现在将被释放，房子也将是清晰的。如果不是，那么，嗯...,"퇴마는 영혼을 해방시키는 과정입니다. 영혼을 해방하기 위해서는 먼저 어떤 종류의 영혼인지 알아야 합니다. 영혼을 선택한 후에는 이제 퇴마를 진행할 수 있습니다. 이때 먼저 영혼이 있는 방을 선택해야 합니다. 이는 중요한데, 그렇지 않으면 과정이 실패할 것입니다. 모든 것이 완벽하게 진행되면, 이제 영혼은 해방되고 집은 깨끗해집니다. 그렇지 않다면, 글쎄요..."
+daily_0,Detect the ghost type,Den Geistertyp erkennen,Reconnaître le type Spectre,Reconocer el tipo fantasma,розпізнавати привидів,опознать призрачного типа,ゴーストタイプを認識する,识别幽灵类型,유령 유형을 인식하다
+daily_1,Find evidence of murder,Finden Sie Beweise für einen Mord,Trouvez des preuves d'un meurtre,Encuentren pruebas de un asesinato,Знайдіть докази вбивства,Найдите доказательства убийства,殺人の証拠を見つけてください,找到谋杀的证据,살인 증거를 찾으세요
+daily_2,Take 3 convincing pictures,Machen Sie 3 Überzeugende Fotos,Faites 3 photos convaincantes,Haga 3 fotos convincentes,Зробіть 3 переконливі фотографії,Сделайте 3 убедительных фотографии,説得力のある3枚の写真を撮ってください,拍3张有说服力的照片,설득력 있는 사진 3장을 찍으세요.
+daily_3,Exorcise correctly,Korrekt exorzieren,exorciser correctement,exorcizar correctamente,правильно виконувати екзорцизм,Правильно изгонять,正しくエクソシズムを行う,正确驱魔,올바르게 퇴마하다
+daily_4,Beat a game without upgrades,Ein Spiel ohne Upgrades schaffen,Créer un jeu sans améliorations,Completar un juego sin mejoras,Пройти гру без апгрейдів,Пройти игру без апгрейдов,アップグレードなしでゲームをクリアする,完成一个没有升级的游戏,업그레이드 없이 게임을 완성하다
+daily,Daily,Täglich,quotidien,diariamente,щодня,ежедневно,毎日,每天,매일
+mission_name_4,Backrooms,Backrooms,Arrière-salles,Habitaciones traseras,Тилі,Задние комнаты,バックルーム,背室,백룸
+mission_info_4,"Mysterious maze of corridors with dim lighting and potential hazards. Exit doors and caution zones scattered throughout. Hostile entities, and psychological distress. Location and purpose unknown. Extreme caution advised.",Ein mysteriöses Labyrinth aus Korridoren mit schwacher Beleuchtung und potenziellen Gefahren. Ausgangstüren und Vorsichtszonen sind überall verteilt. Feindselige Wesenheiten und psychologischer Stress sind vorhanden. Ort und Zweck unbekannt. Besondere Vorsicht ist geboten.,Un labyrinthe mystérieux de couloirs faiblement éclairés et de dangers potentiels. Des portes de sortie et des zones de prudence sont dispersées partout. Des entités hostiles et un stress psychologique sont présents. Lieu et but inconnus. Une prudence particulière est requise.,Un misterioso laberinto de corredores con iluminación tenue y peligros potenciales. Puertas de salida y zonas de precaución están distribuidas por todas partes. Entidades hostiles y estrés psicológico están presentes. Lugar y propósito desconocidos. Se requiere especial precaución.,Таємничий лабіринт коридорів зі слабким освітленням та потенційними небезпеками. Двері виходу та зони обережності розподілені скрізь. Ворожі сутності та психологічний стрес присутні. Місце і мета невідомі. Особлива обережність необхідна.,Таинственный лабиринт коридоров с тусклым освещением и потенциальными опасностями. Двери выхода и зоны осторожности разбросаны повсюду. Враждебные сущности и психологический стресс присутствуют. Место и цель неизвестны. Особая осторожность необходима.,弱い照明と潜在的な危険がある神秘的な迷路の回廊。出口の扉と注意区域は至る所に分散しています。敵対的な存在と心理的ストレスが存在します。場所と目的は不明です。特別な注意が必要です。,一个充满神秘的迷宫，有着昏暗的走廊和潜在的危险。出口门和警戒区域随处可见。有敌对实体和心理压力存在。地点和目的未知。需要特别小心。,조명이 약한 복도로 이루어진 수수께끼의 미로와 잠재적인 위험들. 출구 문과 주의 구역들이 곳곳에 퍼져있다. 적대적인 존재들과 심리적 스트레스가 존재한다. 장소와 목적은 알 수 없다. 특별한 주의가 요구된다.
+possible_evidence,Possible evidence,Mögliche Beweise,Preuves possibles,Pruebas posibles,можливі докази,возможные доказательства,可能な証拠,可能的证据,가능한 증거
+choose_evidence,Choose your evidence,Wähle deinen Beweis,Choisissez votre preuve,Elija su prueba,Оберіть свій доказ,Выберите ваше доказательство,証拠を選んでください,选择您的证据,증거를 선택하세요
+evidence,Evidence,Beweise,preuves,pruebas,докази,доказательства,証拠,证据,증거
+ghost_information,Ghost Information,Geister Informationen,informations sur les fantômes,Información de fantasmas,інформація про привидів,Информация о призраках,ゴースト情報,鬼的信息,유령 정보
+select_home,Select and Go home,Auswählen und nach Hause gehen,Choisir et rentrer à la maison,Seleccionar e ir a casa,Обрати і йти додому,Выбрать и идти домой,選択して家に帰る,选择并回家,선택하고 집에 가다
+uv_evidence,UV evidence,UV-Nachweis,preuve UV,prueba de UV,УФ-виявлення,УФ-детектор,UV証明,紫外线检测,자외선 증명
+laser,Laser,Laser,laser,láser,лазер,лазер,レーザー,激光,레이저
+orbs,Orbs,Geisterkugeln,orbes,balas fantasma,привиди-кульки,призрачные шары,ゴーストボール,鬼魂球,유령 구슬
+voice,Voice,Stimme,voix,voz,голос,голос,声,声音,목소리
+throwing,Throwing,Werfen,jeter,lanzar,кидати,бросать,投げる,投掷,던지다
+freezing,Freezing,Gefrieren,geler,congelar,замерзати,замерзать,凍る,冻结,얼다
+uv_light,UV,UV,UV,UV,УФ,УФ,紫外,紫外,자외선
+breaker,Power box,Stromkasten,boîte électrique,caja eléctrica,електрощиток,электрощит,配電盤,电箱,전기 상자
+screen,Screen,Bildschirm,écran,pantalla,екран,экран,画面,屏幕,화면
+door,Door,Tür,porte,puerta,двері,дверь,ドア,门,문
+cam,CAM,CAM,APP,CÁM,КАМ,КАМ,カメラ,凸轮,캠
+spot_temperature,Temperature,Temperatur,température,temperatura,температура,температура,温度,温度,온도
+picture,Picture,Foto,photo,foto,фото,фото,写真,照片,사진
+ghost_detection,Ghost Detection System,System der Geistererkennung,système de détection des fantômes,sistema de detección de fantasmas,система виявлення привидів,система обнаружения призраков,ゴースト検出システム,鬼魂识别系统,유령 감지 시스템
+processing_data,Processing data...,Datenverarbeitung…,traitement des données,procesamiento de datos,обробка даних,обработка данных,データ処理,数据处理,데이터 처리
+maled_detection,Malfunction! Please reset the power supply.,Störung! Bitte setzen Sie die Stromversorgung zurück.,Perturbation ! Veuillez réinitialiser l'alimentation électrique.,"¡Interrupción! Por favor, restablezca la alimentación eléctrica.","Збій! Будь ласка, перезавантажте живлення.","Сбой! Пожалуйста, перезагрузите питание.",障害です！電源をリセットしてください。,故障！ 请重新设置电源。,장애 발생! 전원을 리셋하십시오.
+maled_cam,- Video malfunction -,"""- Video-Fehlfunktion -""",Défaillance vidéo,malfunción de vídeo,відео-збій,Видео-неисправность,ビデオ故障,视频故障,비디오 오작동
+transmitting,Transmitting...,Übertragung…,transfert,transmisión,передача,передача,伝送,传输,전송
+start_next,Start next,Nächste Mission,Prochaine mission,Próxima misión,Наступна місія,Следующая миссия,次のミッション,下一个任务,다음 임무
+main_menu,Main menu,Hauptmenü,Menu principal,Menú principal,головне меню,главное меню,メインメニュー,主菜单,메인 메뉴
+booting_detection,booting...,booten …,démarrer,arrancar,завантажувати,загружать,ブートする,启动,부팅하다
+close_door_detection,Please close the door.,Bitte schließen Sie die Tür.,Veuillez fermer la porte.,"Por favor, cierra la puerta.","Будь ласка, закрийте двері.","Пожалуйста, закройте дверь.",ドアを閉めてください。,请关门。,문을 닫아 주세요.
+detection_hide,Detecting hunt! Turn off electricity and hide!,Geist erkannt! Strom ausschalten und verstecken!,Esprit détecté ! Couper le courant et se cacher !,¡Entidad detectada! ¡Apaga la electricidad y escóndete!,Привид виявлено! Вимкніть струм і сховайтесь!,Дух обнаружен! Отключите электричество и прячьтесь!,幽霊を感知！電気を消して隠れて！,发现幽灵！关闭电源并隐藏！,유령 감지! 전기를 끄고 숨어라!
+light,Light,Licht,lumière,luz,світло,свет,光,光,빛
+buy,Buy,Kaufen,acheter,comprar,купувати,купить,買う,购买,사다
+equipped,Equipped,Ausgestattet,équipé,equipado,оснащений,оснащенный,装備された,装备,장착된
+unequipped,Unequipped,Unausgestattet,non équipé,desprovisto,нееукомплектований,неснаряженный,装備されていない,未装备,장비를 갖추지 않은
+upgrade_name_0,More memory,Mehr Speicher,plus de mémoire,más almacenamiento,більше пам'яті,Больше памяти,もっとメモリを,更多存储,더 많은 저장공간
+upgrade_name_1,Faster movement,Schnellere Bewegung,Mouvement plus rapide,movimiento más rápido,швидший рух,быстрое движение,より速い動き,更快的移动,더 빠른 움직임
+upgrade_name_2,Advanced detection,Erweiterte Erkennung,détection avancée,detección avanzada,розширене розпізнавання,расширенное распознавание,拡張認識,扩展识别,확장된 인식
+upgrade_name_3,EMF5 Sound,EMF5 Ton,son EMF5,Sonido EMF5,EMF5 тон,тон,EMF5 音,EMF5声音,EMF5 소리
+upgrade_name_4,Faster exorcism,Schnellerer Exorzismus,exorcisme plus rapide,Exorcismo más rápido,швидший екзорцизм,быстрый экзорцизм,より速いエクソシズム,更快的驱魔,더 빠른 퇴마
+hint_1,Note: Check the door regularly,Hinweis: Prüfen Sie die Tür regelmäßig,Conseil : Vérifiez la porte régulièrement,Consejo: Revise la puerta regularmente,Підказка: Регулярно перевіряйте двері,Совет: Регулярно проверяйте дверь,ヒント: ドアを定期的にチェックしてください,提示：定期检查门,힌트: 문을 정기적으로 점검하세요
+loading,loading...,Laden…,Chargement…,Cargando…,завантаження…,загрузка…,読み込み中…,加载中…,로딩중…
+language_0,Language: English,Sprache: Englisch,Langue : Anglais,Idioma: Inglés,Мова: англійська,Язык: Английский,言語：英語,语言：英语,언어: 영어
+language_1,Language: German,Sprache: Deutsch,Langue: Allemande,Idioma: Alemán,Мова: Німецька,язык: немецкий,言語：ドイツ語,语言：德语,언어: 독일어
+emf_scanner,EMF Scanner,EMF-Scanner,scanner EMF,Escáner EMF,Сканер ЕМП,емф-сканер,EMFスキャナー,电磁场扫描仪,EMF 스캐너
+emf_offline,Camera is offline while scanning for EMF,Kamera ist während des EMF-Scans offline,La caméra est hors ligne pendant le scan EMF,La cámara está fuera de línea durante el escaneo EMF,Камера вимкнена під час сканування ЕМП,Камера не работает во время сканирования ЭМП,EMFスキャン中、カメラはオフラインです,EMF扫描期间相机离线,EMF 스캔하는 동안 카메라가 오프라인입니다
+daily_tasks,Daily Tasks,Tägliche Aufgaben,Tâches quotidiennes,tareas diarias,щоденні завдання,ежедневные задачи,日々の任務,每日任务,일일 임무
+select_ghost,Select ghost,Geist auswählen,choisir l'esprit,elegir espíritu,вибрати дух,выбрать дух,ゴーストを選ぶ,选择精神,유령 선택
+no_possible_ghost,No possible ghost,Kein möglicher Geist,Aucun esprit possible,Ningún espíritu posible,Жоден можливий дух,Нет возможного разума,可能性のない精神,没有可能的精神,불가능한 정신
+microphone,Microphone,Mikrofon,microphone,micrófono,мікрофон,микрофон,マイクロフォン,麦克风,마이크
+mission_data,Mission data,Daten der Mission,Données de la mission,Datos de la misión,дані місії,Данные миссии,ミッションのデータ,任务数据,임무 데이터
+upgrades,Upgrades,Aufrüstungen,améliorations,mejoras,модернізації,модернизации,アップグレード,升级,업그레이드
+cancel,Cancel,Abbrechen,annuler,cancelar,скасувати,отменить,キャンセル,取消,취소하다
+mission_information,Mission Information,Informationen zur Mission,Informations sur la mission,Información sobre la misión,Інформація про місію,информация о миссии,ミッションに関する情報,任务信息,임무에 대한 정보
+guides,Guides,Guides,conseiller,asesor,порадник,советник,アドバイザー,顾问,조언자
+candle,Candle,Kerze,bougie,vela,свічка,свеча,キャンドル,蜡烛,촛불
+painting,Change Painting,Gemälde wechseln,changer de tableau,cambiar cuadro,змінювати картини,менять картины,絵を変える,更换画作,그림을 교체하다
+requireMatch,Buy a match first,Kaufe erst ein Streichholz,Achète d'abord une allumette,Compra primero una cerilla,Спочатку купи сірник,Сначала купи спичку,まずはマッチを購入してください,先买一根火柴,먼저 성냥을 구입하세요
+shop,Shop,Shop,boutique,tienda,магазин,магазин,ショップ,商店,가게
+curAmount,Current amount,Aktuell gekauft,actuellement acheté,Recientemente comprado,недавно куплений,только что куплено,現在購入した,当前购买,현재 구매됨
+upgrade_name_5,Matches,Streichhölzer,allumettes,cerillas,сірники,спички,マッチ,火柴,성냥
+UpgradeInfo_5,Buy matches to light the candle to prevent a hunt,"Kaufen Sie Streichhölzer zum Anzünden der Kerze, um eine Jagd zu verhindern",Achetez des allumettes pour allumer la bougie afin d'éviter une chasse,Compre cerillas para encender la vela y evitar una caza,"Купіть сірники, щоб запалити свічку, аби запобігти полюванню","Купите спички, чтобы зажечь свечу и предотвратить охоту",キャンドルを点灯するためにマッチを買って、狩猟を避けてください,为了防止打猎，请买火柴点蜡烛,"촛불을 켜기 위해 성냥을 사세요, 사냥을 막기 위해"
+hint_2,Note: He will always be there,Hinweis: Er wird immer dort sein,Indice : Il sera toujours là,Él siempre estará ahí,Підказка: він завжди там буде,Подсказка: Он всегда будет там,注意：彼は常にそこにいます,提示：他将永远在那里,참고: 그는 항상 거기에 있을 겁니다
+hint_3,Note: The EMF can help locate the ghost room,"Hinweis: Der EMF kann helfen, den Geisterraum zu lokalisieren",Indice : Le champ électromagnétique peut aider à localiser la salle des esprits,Indicación: El EMF puede ayudar a localizar la habitación fantasma,Підказка: ЕМП може допомогти локалізувати примарний простір,Совет: ЭМП может помочь определить местонахождение комнаты с призраком,ヒント：EMFは幽霊の部屋を特定するのに役立ちます,提示：电磁场仪可以帮助确定鬼魂的位置,힌트: EMF는 유령의 방을 찾는 데 도움이 될 수 있습니다
+hint_4,Note: You can try exorcism several times,Hinweis: Sie können den Exorzismus mehrmals versuchen,Remarque : Vous pouvez tenter l'exorcisme plusieurs fois,Consejo: Puedes intentar el exorcismo varias veces,Підказка: Ви можете спробувати екзорцизм кілька разів,Подсказка: Вы можете попробовать экзорцизм несколько раз,ヒント：あなたは何度もエクソシズムを試みることができます,提示：您可以多次尝试驱魔,힌트: 당신은 퇴마를 여러 번 시도할 수 있습니다
+hint_5,Note: He will find you,Er wird dich finden,Il vous trouvera,Él te encontrará,Підказка: Він вас знайде,Он вас найдет,彼はあなたを見つけるでしょう,他会找到你,그는 당신을 찾을 것입니다
+hint_6,Note: You can light the candle several times,Hinweis: Sie können die Kerze mehrmals anzünden,Indication : Vous pouvez allumer la bougie plusieurs fois,Pista: Puedes encender la vela varias veces,Підказка: Ви можете запалювати свічку кілька разів,Совет: Вы можете зажигать свечу несколько раз,ヒント：あなたはキャンドルを何度も灯すことができます,提示：您可以多次点燃蜡烛,힌트: 촛불을 여러 번 켤 수 있습니다
+hint_7,Note: Have you checked out our shop?,Hinweis: Haben Sie schon unseren Shop besucht?,Indice: Avez-vous déjà visité notre boutique ?,Consejo: ¿Ya ha visitado nuestra tienda?,Підказка: Ви вже відвідали наш магазин?,Подсказка: Вы уже посетили наш магазин?,ヒント：私たちのショップにはもう訪れましたか？,提示：您已经访问过我们的商店了吗？,힌트: 우리 상점에 방문하셨나요?
+hint_8,Note: Don't be ashamed to look for tutorials,"Hinweis: Schämen Sie sich nicht, nach Tutorials zu suchen",Astuce : Ne vous sentez pas gêné de chercher des tutoriels,Consejo: No te avergüences de buscar tutoriales,Підказка: Не соромтеся шукати туторіали,Подсказка: Не стесняйтесь искать учебные материалы,ヒント：チュートリアルを探すことを恥じる必要はありません,提示：不要羞于寻找教程,힌트: 튜토리얼을 찾는 것을 부끄러워하지 마세요
+upgrade_name_6,Sanity Meter,Sanitätsmeter,Appareil de mesure pour la santé mentale,dispositivo de medición para la salud mental,прилад для вимірювання психічного здоров'я,прибор для измерения психического здоровья,精神健康のための測定器,精神健康测量仪,정신 건강 측정기
+UpgradeInfo_6,Adds a Sanity Meter to see the current state of sanity,"Fügt ein Sanitätsmessgerät hinzu, um den aktuellen Stand der Vernunft anzuzeigen",Ajoutez un appareil médical pour montrer l'état actuel de la raison,Agrega un medidor de cordura para mostrar el estado actual de la cordura,"Додає медичний вимірювальний пристрій, щоб показати поточний стан розуму",Добавляет медицинский измерительный прибор для отображения текущего состояния разума,現在の理性の状態を表示するために医療計測器を追加します,添加一个卫生测量设备以显示当前的理智状态,현재 이성의 상태를 표시하기 위해 의료 측정 장치를 추가합니다
+upgrade_name_7,Sanity pills,Pillen für die Gesundheit,Pilules pour la santé,Píldoras para la salud,Пігулки для здоров'я,таблетки для здоровья,健康のための錠剤,保健药丸,건강을 위한 알약들
+UpgradeInfo_7,Add Sanity pills to the game to increase your sanity,"Füge dem Spiel Gesundheitspillen hinzu, um deine geistige Gesundheit zu erhöhen.",Ajoute des pilules de santé au jeu pour augmenter ta santé mentale.,Añade píldoras de salud al juego para aumentar tu salud mental.,"Додай до гри пігулки здоров’я, щоб покращити своє психічне здоров’я.","Добавь в игру таблетки здоровья, чтобы увеличить свое психическое здоровье.",ゲームに健康ピルを追加して、あなたの精神的な健康を向上させてください。,在游戏中添加健康药丸以提高你的精神健康。,게임에 정신 건강을 높이기 위해 건강 알약을 추가하세요.
+SanityPills,Sanity Pills,Pillen für die Gesundheit,Pilules pour la santé,Pastillas para la salud,пігулки для здоров'я,Таблетки для здоровья,健康のための錠剤,为健康而药,건강을 위한 알약
+incomingCall,Incoming Call from The BO$$,Eingehender Anruf von The BO$$,Appel entrant de The BO$$,Llamada entrante de The BO$$,Вхідний дзвінок від The BO$$,Входящий вызов от The BO$$,The BO$$からの着信,来自老板的来电,보스로부터 걸려온 전화
+accept,Accept,Akzeptieren,accepter,aceptar,приймати,принимать,受け入れる,接受,수락하다
+decline,Decline,Ablehnen,refuser,rechazar,відхилити,отклонить,拒否する,拒绝,거절하다
+decline,Decline,Ablehnen,refuser,rechazar,відхилити,отклонять,断る,拒绝,거절하다
+mission_name_5,Chernobyl,Tschernobyl,Tchernobyl,Chernóbil,Чорнобиль,Чернобыль,チェルノブイリ,切尔诺贝利,체르노빌
+mission_info_5,"Welcome to the infamous Chernobyl Exclusion Zone, the site of one of the most catastrophic nuclear disasters in history. This map plunges you deep into the heart of this abandoned and radiation-contaminated area, where paranormal activity has intensified since the disaster.","Willkommen in der berüchtigten Sperrzone von Tschernobyl, dem Ort einer der katastrophalsten Nuklearkatastrophen der Geschichte. Mit dieser Karte tauchen Sie tief in das Herz dieses verlassenen und strahlenverseuchten Gebiets ein, in dem seit der Katastrophe verstärkt paranormale Aktivitäten zu beobachten sind.","Bienvenue dans la tristement célèbre zone d'exclusion de Tchernobyl, le site de l'une des catastrophes nucléaires les plus désastreuses de l'histoire. Avec cette carte, vous plongez au cœur de cette zone abandonnée et contaminée par les radiations, où une augmentation des activités paranormales a été observée depuis la catastrophe.","Bienvenido a la infame zona de exclusión de Chernóbil, el sitio de uno de los desastres nucleares más catastróficos de la historia. Con este mapa, te adentrarás en el corazón de esta área abandonada y contaminada por radiación, donde se han observado actividades paranormales intensificadas desde la catástrofe.","Ласкаво просимо у знамениту зону відчуження Чорнобиля, місце однієї з найкатастрофічніших ядерних катастроф в історії. З цією картою ви зануритесь у глиб серця цієї покинутої та радіаційно забрудненої території, де з часу катастрофи спостерігається підвищена паранормальна активність.","Добро пожаловать в зловещую зону отчуждения Чернобыля, место одной из самых катастрофических ядерных катастроф в истории. С этой картой вы погрузитесь в самое сердце этой заброшенной и радиоактивно загрязненной территории, где с момента катастрофы значительно усилились паранормальные явления.",チェルノブイリの悪名高い禁止区域へようこそ。これは歴史上最も破壊的な核災害の現場です。この地図を使って、放棄され、放射能に汚染されたこの地域の中心部へと深く潜り込みます。災害以来、ここでは特に超常的な活動が増加しています。,欢迎来到臭名昭著的切尔诺贝利禁区，这里是历史上最灾难性的核灾难之一的发生地。有了这张地图，您将深入这个被遗弃和辐射污染的区域的心脏地带，在那里自灾难以来，异常的超自然活动有所增加。,체르노빌의 악명 높은 제한 구역에 오신 것을 환영합니다. 이곳은 역사상 가장 참담한 핵 재해가 일어난 장소입니다. 이 지도를 통해 당신은 이 버려진 방사능 오염 지역의 심장부로 깊이 들어갈 것입니다. 재난 이후 이 지역에서는 초자연적 활동이 증가하고 있습니다.
+mission_name_6,Police station,Polizeistation,commissariat,comisaría,поліцейська станція,полицейский участок,警察署,警察局,경찰서
+mission_info_6,"Welcome to the Police station, the new map for Paranormal Observation","Willkommen bei der Polizeistation, der neuen Karte für die paranormale Beobachtung","Bienvenue au poste de police, la nouvelle carte pour l'observation paranormale","Bienvenido a la estación de policía, el nuevo mapa para la observación paranormal","Ласкаво просимо на поліцейську станцію, нову карту для паранормального спостереження","Добро пожаловать в полицейский участок, новую карту для паранормальных наблюдений",警察署へようこそ、新しいパラノーマル観測マップです,欢迎来到警察局，这是用于超自然观察的新地图,파라노말 감시를 위한 새로운 지도인 경찰서에 오신 것을 환영합니다
+Subtitle_0,"0.0: Hello and welcome to your first paranormal observation.
+3.5: My name is Daniel, and I will be guiding you through your first observation.
+7.7: You are in the basement where you can use the computer to track down the spirit you are dealing with.
+12.2: The ghost can go through different rooms. You have several ghost detection tools below.
+16.7: Use the UV light for foot and fingerprints, the laser for laser evidence. Sound for voice evidence.
+23: You also have another task to do in addition. You can find it as a note on your computer.
+28.1: When you have found all the evidence you need to get the ghost type, you can perform an exorcism.
+32.8: It is very important to note that the ghost can wander around the building, so you need to perform the exorcism when you are very sure that the spirit is in the room.
+41: For example, you can use the EMF meter to detect the ghost room.
+45: Just because you are in the basement it doesn't mean you are completely safe, the ghost can still hunt.
+50: In that case you can hide below the desk so you will be safe.
+53.5: No problem at all.
+54.6: I wish you all the best for your first mission.
+57: Good luck, We'll talk again soon!","0:Hallo und herzlich willkommen zu deiner ersten paranormalen Beobachtung. Mein Name ist Daniel, und ich werde dich durch deine erste Beobachtung führen.
+10:Du befindest dich im Keller, wo du den Computer nutzen kannst, um den Geist zu verfolgen, mit dem du es zu tun hast.
+17:Der Geist kann sich durch verschiedene Räume bewegen, und du hast mehrere Werkzeuge zur Geistererkennung zur Verfügung.
+24:Verwende UV-Licht, um Fuß- und Fingerabdrücke zu erkennen, den Laser für Lasernachweise und das Mikrofon für akustische Beweise.
+33:Zusätzlich hast du eine Aufgabe zu erledigen, die du als Hinweis auf deinem Computer finden wirst.
+39:Sobald du alle notwendigen Beweise gesammelt hast, kannst du mit dem Exorzismus beginnen. Es ist sehr wichtig, dass du den Exorzismus nur durchführst, wenn du dir absolut sicher bist, dass der Geist im Raum ist, denn er kann sich frei im Gebäude bewegen. 
+55:Den EMF-Detektor kannst du verwenden, um den Aufenthaltsraum des Geistes zu bestimmen. Auch wenn du dich im Keller befindest, bist du nicht vollständig sicher; der Geist kann immer noch auf die Jagd gehen.
+67:In einem solchen Fall kannst du dich unter dem Schreibtisch verstecken, um sicher zu sein. Keine Sorge, das wird schon.
+73:Ich wünsche dir alles Gute für deine erste Mission. Viel Glück, wir sprechen bald wieder!","0.0 : Bonjour et bienvenue à votre première observation paranormale.
+3.5 : Je m'appelle Daniel et je vais vous guider dans votre première observation.
+7.7 : Vous êtes au sous-sol où vous pouvez utiliser l'ordinateur pour retrouver l'esprit auquel vous avez affaire.
+12.2 : Le fantôme peut traverser différentes pièces. Vous disposez de plusieurs outils de détection des fantômes ci-dessous.
+16.7 : Utilisez la lumière UV pour les empreintes de pieds et de doigts, le laser pour les preuves laser. Le son pour les preuves vocales.
+23 : Vous avez également une autre tâche à accomplir. Vous la trouverez sous forme de note sur votre ordinateur.
+28.1 : Lorsque vous avez trouvé toutes les preuves nécessaires pour obtenir le type de fantôme, vous pouvez procéder à un exorcisme.
+32.8 : Il est très important de noter que le fantôme peut se promener dans le bâtiment, vous devez donc procéder à l'exorcisme lorsque vous êtes certain que l'esprit se trouve dans la pièce.
+41 : Par exemple, vous pouvez utiliser un appareil de mesure des champs électromagnétiques pour détecter la présence d'un fantôme dans la pièce.
+45 : Ce n'est pas parce que vous êtes au sous-sol que vous êtes totalement en sécurité, le fantôme peut toujours vous chasser.
+50 : Dans ce cas, vous pouvez vous cacher sous le bureau pour être en sécurité.
+53.5 : Pas de problème.
+54.6 : Je vous souhaite bonne chance pour votre première mission.
+57 : Bonne chance, on se reparle bientôt !","0.0: Hola y bienvenido a tu primera observación paranormal.
+3.5: Mi nombre es Daniel y te guiaré en tu primera observación.
+7.7: Estás en el sótano donde puedes usar el ordenador para localizar al espíritu con el que estás tratando.
+12.2: El fantasma puede pasar por diferentes habitaciones. A continuación tienes varias herramientas de detección de fantasmas.
+16.7: Usa la luz ultravioleta para huellas de pies y dedos, el láser para evidencia láser. El sonido para pruebas de voz.
+23: También tienes otra tarea adicional. Puedes encontrarla como nota en tu ordenador.
+28.1: Cuando hayas encontrado todas las pruebas que necesitas para conseguir el tipo de fantasma, puedes realizar un exorcismo.
+32.8: Es muy importante tener en cuenta que el fantasma puede deambular por el edificio, por lo que necesitas realizar el exorcismo cuando estés muy seguro de que el espíritu está en la habitación.
+41: Por ejemplo, puedes usar el medidor EMF para detectar la habitación fantasma.
+45: Que estés en el sótano no significa que estés completamente a salvo, el fantasma aún puede cazar.
+50: En ese caso puedes esconderte debajo del escritorio y así estarás a salvo.
+53.5: No hay ningún problema.
+54.6: Te deseo lo mejor para tu primera misión.
+57: ¡Buena suerte, volveremos a hablar pronto!","0.0: Привіт і ласкаво просимо на ваше перше паранормальне спостереження.
+3.5: Мене звати Даніель, і я буду супроводжувати вас під час вашого першого спостереження.
+7.7: Ви знаходитесь у підвалі, де можете скористатися комп'ютером, щоб відстежити духа, з яким маєте справу.
+12.2: Привид може ходити по різних кімнатах. Нижче у вас є кілька інструментів для виявлення привидів.
+16.7: Використовуйте ультрафіолетове світло для відбитків ніг і пальців, лазер для лазерних доказів. Звук - для голосових доказів.
+23: У вас також є ще одне завдання. Ви можете знайти його у вигляді нотатки на своєму комп'ютері.
+28.1: Коли ти знайдеш всі докази, необхідні для визначення типу привида, ти можеш провести екзорцизм.
+32.8: Дуже важливо відзначити, що привид може блукати по всьому будинку, тому вам потрібно проводити обряд вигнання, коли ви абсолютно впевнені, що дух знаходиться в кімнаті.
+41: Наприклад, ви можете використовувати ЕМП-метр, щоб виявити кімнату з привидами.
+45: Те, що ви перебуваєте в підвалі, не означає, що ви в цілковитій безпеці, привид все ще може полювати.
+50: У такому випадку ви можете сховатися під столом, щоб бути в безпеці.
+53.5: Без проблем.
+54.6: Я бажаю тобі всього найкращого для твоєї першої місії.
+57: Щасти тобі, скоро побачимося!","0.0: Здравствуйте и добро пожаловать в ваше первое паранормальное наблюдение.
+3.5: Меня зовут Дэниел, и я буду вести вас через ваше первое наблюдение.
+7.7: Вы находитесь в подвале, где с помощью компьютера можете отследить духа, с которым имеете дело.
+12.2: Призрак может проходить через разные комнаты. Внизу у вас есть несколько инструментов для обнаружения призрака.
+16.7: Используйте ультрафиолетовую лампу для отпечатков ног и пальцев, лазер - для лазерных улик. Звук - для голосовых улик.
+23: Кроме того, вам предстоит выполнить еще одно задание. Вы можете найти его в виде заметки на своем компьютере.
+28.1: Когда вы найдете все улики, необходимые для получения типа призрака, вы можете провести экзорцизм.
+32.8: Очень важно отметить, что призрак может бродить по зданию, поэтому проводить экзорцизм нужно тогда, когда вы точно уверены, что дух находится в комнате.
+41: Например, вы можете использовать измеритель ЭМП, чтобы обнаружить комнату с призраком.
+45: Если вы находитесь в подвале, это не значит, что вы в полной безопасности, призрак все еще может охотиться.
+50: В таком случае вы можете спрятаться под столом, и тогда вы будете в безопасности.
+53.5: Без проблем.
+54.6: Желаю вам всего наилучшего в вашей первой миссии.
+57: Удачи, скоро снова поговорим!","0.0: こんにちは、初めての超常現象観察へようこそ。
+3.5:私の名前はダニエル、あなたの最初の観察をガイドします。
+7.7:あなたは地下室にいて、コンピューターを使って相手の霊を追跡することができる。
+12.2: 幽霊はいろいろな部屋を通り抜けることができる。下にいくつかの幽霊探知ツールがある。
+16.7: 足跡や指紋にはUVライトを、レーザー証拠にはレーザーを使う。音声証拠にはサウンドを。
+23: さらに、もう一つのタスクがあります。パソコンにメモとして残されています。
+28.1: ゴーストタイプに必要な証拠をすべて見つけたら、悪魔祓いを行うことができます。
+32.8：幽霊は建物内を彷徨う可能性があるので、霊が部屋にいることを確信したときにお祓いを行う必要がある。
+41：たとえば、電磁波計で幽霊部屋を探知することができる。
+45: 地下にいるからといって、完全に安全とは限りません。
+50: その場合は机の下に隠れれば安全です。
+53.5: まったく問題ありません。
+54.6: 初任務の成功を祈ります。
+57: 頑張ってください！","0.0：你好，欢迎来到你的第一次超自然现象观察。
+3.5:我叫丹尼尔，我将指导你完成第一次观察。
+7.7:你现在在地下室，可以用电脑追踪你要对付的灵魂。
+12.2:鬼魂可以穿过不同的房间。下面有几个鬼魂探测工具。
+16.7:使用紫外线灯检测脚印和指纹，使用激光检测激光证据。声音用于声音证据。
+23:此外，你还有另一项任务要做。您可以在电脑上以备注的形式找到它。
+28.1:当你找到所有需要的证据后，你就可以进行驱魔了。
+32.8:需要注意的是，鬼魂可能会在建筑内四处游荡，因此需要在非常确定鬼魂就在房间内时进行驱魔。
+41:例如，你可以使用电磁场计来探测鬼屋。
+45:虽然你在地下室，但这并不意味着你就完全安全了，鬼魂还是会追杀你。
+50:在这种情况下，你可以躲在桌子下面，这样你就安全了。
+53.5: 完全没问题。
+54.6:祝你们第一次执行任务一切顺利。
+57:祝你好运，我们很快再聊！","0.0: 안녕하세요, 첫 초자연 현상 관측에 오신 것을 환영합니다.
+3.5: 제 이름은 다니엘이고, 첫 번째 관찰을 안내해드리겠습니다.
+7.7: 여러분은 컴퓨터를 사용하여 여러분이 상대하고 있는 영혼을 추적할 수 있는 지하실에 있습니다.
+12.2: 유령은 여러 방을 통과할 수 있습니다. 아래에 몇 가지 유령 탐지 도구가 있습니다.
+16.7: 발자국과 지문은 자외선을, 레이저 증거는 레이저를 사용하세요. 음성 증거에는 소리를 이용하세요.
+23: 추가로 해야 할 다른 작업도 있습니다. 컴퓨터에서 메모로 찾을 수 있습니다.
+28.1: 유령 유형을 파악하는 데 필요한 모든 증거를 찾으면 엑소시즘을 수행할 수 있습니다.
+32.8 : 유령이 건물 주위를 돌아 다닐 수 있으므로 영혼이 방에 있다는 것이 확실 할 때 엑소시즘을 수행해야한다는 점에 유의하는 것이 매우 중요합니다.
+41 : 예를 들어 EMF 미터를 사용하여 유령 방을 감지 할 수 있습니다.
+45: 지하실에 있다고 해서 완전히 안전하다는 의미는 아니며 유령은 여전히 사냥을 할 수 있습니다.
+50: 이 경우 책상 아래에 숨으면 안전할 수 있습니다.
+53.5: 전혀 문제 없어요.
+54.6: 첫 임무에 최선을 다하길 바랍니다.
+57: 행운을 빌어요, 곧 다시 얘기하죠!"
+Subtitle_1,"0: Hello, it's me again.
+3: You made some good observations already. Maybe you've noticed some camera interruptions of a shadow-like person?
+12.5: Well, that's nothing! Yes, nothing to worry about. It's just some crazy hallucination you can get by working late at night.
+24: Perhaps if you hear some knocking on the door, just hide below your desk and it's all fine.
+31.5: Why should you open a door if someone knocks on it?
+35.5: Here is nobody. It's just nothing. Absolutely nothing at all. Everything is fine.
+46: Anyway, you probably noticed there is a candle on the table you can light.
+52.5: To light the candle you need to buy matches before. You can use the candle to prevent a hunt as it keeps your sanity up.
+62.5: That's all for today, We'll talk again soon!","0:Hallo, hier bin ich wieder. Du hast bereits einige interessante Beobachtungen gemacht. Hast du die Unterbrechungen in der Kameraaufzeichnung durch eine schattenhafte Gestalt bemerkt? 
+11:Keine Sorge, das ist nichts Ernstes – nur Halluzinationen, die man bekommen kann, wenn man spät arbeitet.
+17:Solltest du Klopfgeräusche an der Tür hören, verstecke dich einfach unter deinem Schreibtisch und alles wird gut. Es gibt keinen Grund, die Tür zu öffnen – es ist niemand da.
+27:Alles ist in Ordnung.
+30:Vielleicht ist dir die Kerze auf dem Tisch aufgefallen. Um sie anzuzünden, benötigst du Streichhölzer, die du vorher kaufen musst. 
+37:Die Kerze kann helfen, eine Geisterjagd zu verhindern, indem sie deine geistige Gesundheit schützt. Das ist alles für heute. Wir sprechen bald wieder!","0 : Bonjour, c'est encore moi.
+3 : Vous avez déjà fait de bonnes observations. Peut-être avez-vous remarqué des interruptions de caméra d'une personne ressemblant à une ombre ?
+12.5 : Eh bien, ce n'est rien ! Oui, il n'y a pas de quoi s'inquiéter. C'est juste une hallucination folle que l'on peut avoir en travaillant tard le soir.
+24 : Si vous entendez frapper à la porte, cachez-vous sous votre bureau et tout ira bien.
+31.5 : Pourquoi devriez-vous ouvrir une porte si quelqu'un y frappe ?
+35.5 : Ici, il n'y a personne. Il n'y a rien. Absolument rien. Tout va bien.
+46 : Quoi qu'il en soit, vous avez probablement remarqué qu'il y a une bougie sur la table que vous pouvez allumer.
+52.5 : Pour allumer la bougie, il faut d'abord acheter des allumettes. Tu peux utiliser la bougie pour éviter une chasse car elle te permet de garder la tête froide.
+62.5 : C'est tout pour aujourd'hui, nous en reparlerons bientôt !","0: Hola, soy yo otra vez.
+3: Ya has hecho algunas buenas observaciones. ¿Quizás has notado algunas interrupciones de cámara de una persona parecida a una sombra?
+12.5: ¡Bueno, eso no es nada! Sí, nada de qué preocuparse. Es sólo una alucinación loca que puedes tener trabajando hasta altas horas de la noche.
+24: Tal vez si oyes que llaman a la puerta, escóndete debajo de tu escritorio y todo irá bien.
+31.5: ¿Por qué abrir una puerta si alguien llama a ella?
+35.5: Aquí no hay nadie. No hay nada. Absolutamente nada. Todo está bien.
+46: De todos modos, probablemente te habrás dado cuenta de que hay una vela sobre la mesa que puedes encender.
+52.5: Para encender la vela necesitas comprar cerillas antes. Puedes usar la vela para evitar una cacería ya que mantiene tu cordura.
+62.5: Eso es todo por hoy, ¡volveremos a hablar pronto!","0: Привіт, це знову я.
+3: Ви вже зробили кілька хороших спостережень. Можливо, ви помітили, що камера перебиває тінь від людини, схожої на тінь?
+12.5: Ну, це дрібниці! Так, нічого страшного. Це просто якась божевільна галюцинація, яку можна отримати, працюючи до пізньої ночі.
+24: Можливо, якщо ти почуєш стукіт у двері, просто сховайся під столом, і все буде гаразд.
+31,5: Навіщо відчиняти двері, якщо хтось стукає?
+35.5: Тут нікого немає. Просто нікого. Абсолютно нічого. Все гаразд.
+46: Ти, мабуть, помітив, що на столі стоїть свічка, яку можна запалити.
+52.5: Щоб запалити свічку, потрібно заздалегідь купити сірники. Ти можеш використовувати свічку, щоб запобігти полюванню, оскільки вона зберігає твій здоровий глузд.
+62.5: Це все на сьогодні, ми ще поговоримо!","0: Здравствуйте, это снова я.
+3: Вы уже сделали несколько хороших наблюдений. Может быть, вы заметили прерывания камеры человеком, похожим на тень?
+12.5: Ну, это ерунда! Да, не о чем беспокоиться. Это просто безумная галлюцинация, которую можно получить, работая поздно ночью.
+24: Возможно, если вы услышите стук в дверь, просто спрячьтесь под столом, и все будет в порядке.
+31.5: Почему вы должны открывать дверь, если в нее кто-то стучит?
+35.5: Здесь никого нет. Просто ничего. Абсолютно ничего. Все в порядке.
+46: В любом случае, вы, наверное, заметили, что на столе стоит свеча, которую можно зажечь.
+52.5: Чтобы зажечь свечу, нужно предварительно купить спички. Вы можете использовать свечу, чтобы предотвратить охоту, так как она сохраняет ваше здравомыслие.
+62.5: На сегодня это все, скоро поговорим снова!","0：こんにちは、また私です。
+3: すでに良い観察をしていますね。もしかして、影みたいな人がカメラに割り込んでいるのに気づきましたか？
+12.5：まあ、何でもないです！そう、心配することはない。夜遅くまで仕事をしていると、おかしな幻覚を見ることがあるんだ。
+24: ドアをノックする音が聞こえたら、机の下に隠れていれば大丈夫ですよ。
+31.5：誰かがドアをノックしたら、なぜドアを開けなければならないの？
+35.5：ここには誰もいない。ただ何もない。まったく何もない。すべて順調です。
+46: とにかく、テーブルの上にろうそくが置いてあるのに気づいたでしょう。
+52.5: ロウソクに火をつけるには、マッチを買う必要があります。正気を保つため、狩りを防ぐためにロウソクを使うことができます。
+62.5: 今日はここまで！","0: 你好，还是我。
+3: 你已经有了一些很好的观察。也许你注意到了一些类似影子的人的镜头干扰？
+12.5：嗯，这没什么！是的，没什么好担心的。这只是深夜工作时产生的疯狂幻觉。
+24：如果你听到敲门声，只要躲在桌子下面就没事了。
+31.5：如果有人敲门，你为什么要开门？
+35.5: 这里没有人。什么都没有。什么都没有。一切都很好。
+46：总之，你可能注意到桌子上有一支蜡烛，你可以点燃它。
+52.5：要点燃蜡烛，你需要先买火柴。你可以用蜡烛来防止狩猎，因为它能让你保持理智。
+62.5：今天就到这里吧，我们很快再聊！","0: 안녕하세요, 또 저입니다.
+3: 이미 몇 가지 좋은 관찰을 하셨군요. 혹시 그림자 같은 사람이 카메라에 끼어드는 것을 보셨나요?
+12.5: 아무것도 아니에요! 네, 걱정할 거 없어요. 밤늦게까지 일하다 보면 생길 수 있는 이상한 환각일 뿐이죠.
+24: 문을 두드리는 소리가 들리면 책상 밑으로 숨으면 괜찮을 거예요.
+31.5: 누군가 문을 두드리면 왜 문을 열어야 하나요?
+35.5: 여기 아무도 없어요. 그냥 아무것도 아니에요. 전혀 아무것도 아니에요. 모든 게 괜찮아요.
+46: 어쨌든, 테이블 위에 불을 붙일 수 있는 양초가 있는 걸 보셨을 거예요.
+52.5: 촛불을 켜려면 먼저 성냥을 사야 합니다. 촛불을 사용하면 정신이 번쩍 들기 때문에 사냥을 예방할 수 있습니다.
+62.5: 오늘은 여기까지입니다, 곧 다시 이야기하죠!"
+Subtitle_2,"0: Hey...
+0.7: There might be some crazy stuff going around and... Maybe you should know that too.
+7.3: We did an experiment in the past. Our company set out to observe with our friend John. A crazy guy.
+16.3: Anyway, he went into a room and when he went in, we locked him in. I know, I know, this may sound cruel, but it was all for scientific reasons.
+31: We checked him with our camera to see what might happen if we left someone in a closed room with a ghost.
+38.5: He was screaming for help, banging on the door over and over again, but I kept telling him to calm down, we were just doing it all for scientific reasons.
+51: I mean, I'm sure he would have done the same thing.
+55.6: No one before us did this, it's perfect for our company. The fame... The money...
+63.2: Anyway, we looked at the camera for a second and he was just gone. He wasn't there anymore. I called our friends who were keeping an eye on the situation inside.
+76.5: But they... they all died... They all died...","0:Hey... es könnte verrückt klingen, aber du solltest dies wissen. In der Vergangenheit führten wir ein Experiment durch. 
+8:Wir beobachteten unseren Freund John – ein wirklich verrückter Kerl. Wir sperrten ihn in einem Raum ein, um zu sehen, was passiert, wenn man jemanden mit einem Geist in einem geschlossenen Raum lässt.
+23:Er schrie um Hilfe und schlug gegen die Tür, aber wir beruhigten ihn, es passiert alles nur aus wissenschaftlichen Gründen.
+30:Keiner hat das je vor uns gemacht – es war perfekt für unsere Firma. Der Ruhm… Das Geld...
+40:Doch dann verschwand John plötzlich vor der Kamera.
+45:Unsere Freunde, die das Innere überwachten, sind alle gestorben... Sie sind alle gestorben…","0 : Hey...
+0.7 : Il se peut qu'il y ait des choses folles qui se passent et... Tu devrais peut-être le savoir aussi.
+7.3 : Nous avons fait une expérience dans le passé. Notre entreprise est partie en observation avec notre ami John. Un fou.
+16.3 : Quoi qu'il en soit, il est entré dans une pièce et quand il est entré, nous l'avons enfermé. Je sais, je sais, cela peut paraître cruel, mais c'était pour des raisons scientifiques.
+31 : Nous l'avons examiné avec notre caméra pour voir ce qui se passerait si nous laissions quelqu'un dans une pièce fermée avec un fantôme.
+38.5 : Il criait à l'aide, frappait à la porte encore et encore, mais je lui disais de se calmer, nous faisions tout cela pour des raisons scientifiques.
+51 : Je veux dire, je suis sûr qu'il aurait fait la même chose.
+55.6 : Personne avant nous n'a fait ça, c'est parfait pour notre entreprise. La célébrité... L'argent...
+63.2 : Quoi qu'il en soit, nous avons regardé la caméra pendant une seconde et il n'était plus là. Il n'était plus là. J'ai appelé nos amis qui surveillaient la situation à l'intérieur.
+76.5 : Mais ils... ils sont tous morts... Ils sont tous morts...","0: Hey...
+0.7: Puede haber algunas cosas locas dando vueltas y... Quizás deberías saberlo también.
+7.3: Hicimos un experimento en el pasado. Nuestra compañía se puso a observar con nuestro amigo John. Un tipo loco.
+16.3: En fin, entró en una habitación y cuando entró, le encerramos. Lo sé, lo sé, esto puede sonar cruel, pero todo fue por razones científicas.
+31: Lo comprobamos con nuestra cámara para ver qué podía pasar si dejábamos a alguien en una habitación cerrada con un fantasma.
+38,5: Gritaba pidiendo ayuda, golpeando la puerta una y otra vez, pero yo le decía que se calmara, que lo hacíamos todo por razones científicas.
+51: Seguro que él habría hecho lo mismo.
+55.6: Nadie antes que nosotros hizo esto, es perfecto para nuestra empresa. La fama... El dinero...
+63.2: De todos modos, miramos a la cámara por un segundo y él se había ido. Ya no estaba allí. Llamé a nuestros amigos que estaban vigilando la situación dentro.
+76.5: Pero ellos... todos murieron... Todos murieron...","0: Привіт...
+0.7: Навколо можуть відбуватися якісь божевільні речі і... Може, тобі теж варто про це знати.
+7.3: У минулому ми проводили експеримент. Наша компанія вирішила поспостерігати з нашим другом Джоном. Божевільним хлопцем.
+16.3: Так чи інакше, він зайшов у кімнату, і коли він зайшов, ми його замкнули. Знаю, знаю, це може здатися жорстоким, але все це було з наукових міркувань.
+31: Ми перевірили його на камеру, щоб побачити, що може статися, якщо залишити когось у закритій кімнаті з привидом.
+38.5: Він кричав про допомогу, стукав у двері знову і знову, але я продовжував говорити йому, щоб він заспокоївся, ми робили все це з наукових міркувань.
+51: Тобто, я впевнений, що він зробив би те саме.
+55.6: Ніхто до нас цього не робив, це ідеально підходить для нашої компанії. Слава... Гроші...
+63.2: Так чи інакше, ми подивилися в камеру на секунду, а він просто зник. Його там більше не було. Я подзвонив нашим друзям, які стежили за ситуацією всередині.
+76.5: Але вони... вони всі загинули... Вони всі загинули...","0: Эй...
+0.7: Возможно, вокруг творится какое-то безумие и... Может, тебе тоже стоит об этом знать.
+7.3: В прошлом мы провели эксперимент. Наша компания отправилась наблюдать за нашим другом Джоном. Сумасшедший парень.
+16.3: В общем, он зашел в комнату, а когда зашел, мы его заперли. Знаю, знаю, это может показаться жестоким, но все это было сделано из научных соображений.
+31: Мы проверили его с помощью камеры, чтобы узнать, что может произойти, если оставить человека в закрытой комнате с призраком.
+38.5: Он кричал о помощи, снова и снова стучал в дверь, но я твердил ему, чтобы он успокоился, мы просто делали это из научных соображений.
+51: То есть я уверен, что он поступил бы так же.
+55.6: Никто до нас не делал этого, это идеально подходит для нашей компании. Слава... Деньги...
+63.2: В общем, мы на секунду посмотрели в камеру, и он просто исчез. Его там больше не было. Я позвонил нашим друзьям, которые следили за ситуацией внутри.
+76.5: Но они... они все умерли... Они все умерли...","0: おい...
+0.7: おかしなことが起きてるかもしれないし... それも知っておいたほうがいいかもね。
+7.3: 昔、ある実験をしました。うちの会社は友人のジョンと一緒に観察に出かけたんだ。クレイジーな奴だ。
+16.3：とにかく、彼はある部屋に入り、中に入ると、私たちは彼を閉じ込めた。残酷に聞こえるかもしれないが、すべて科学的な理由からだ。
+31: もし誰かを幽霊のいる密室に放置したらどうなるか、カメラで彼をチェックしたんだ。
+38.5: 彼は助けを求めて叫び、何度も何度もドアを叩いていましたが、私は彼に落ち着くように言い続けました。
+51: つまり、彼だってきっと同じことをしたと思うよ。
+55.6：私たちの前には誰もこんなことはしていない、私たちの会社にとっては完璧なことだ。名声... 金も...
+63.2: とにかく、私たちは一瞬カメラを見ただけで、彼は消えてしまった。彼はもうそこにはいなかった。中の状況を監視していた友人たちに電話したんだ。
+76.5：でも彼らは...みんな死んだ...。みんな死んだ...","0: 嘿……
+0.7: 可能有些疯狂的事情正在发生……也许你也应该知道。
+7.3: 我们过去做过一个实验。我们公司和我们的朋友约翰一起出发进行观察。一个疯狂的家伙。
+16.3: 不管怎样，他进入了一个房间，当他进去时，我们把他锁在里面。我知道，我知道，这听起来可能很残忍，但这都是出于科学原因。
+31: 我们通过摄像头检查他，看看如果我们把一个人留在一个有鬼的封闭房间里会发生什么。
+38.5: 他不停地尖叫求救，一遍又一遍地敲门，但我一直告诉他冷静下来，我们这样做都是出于科学原因。
+51: 我的意思是，我确信他也会做同样的事情。
+55.6: 在我们之前没有人这么做过，这对我们公司来说是完美的。名声……钱……
+63.2: 不管怎样，我们看了一下摄像头，他突然不见了。他不在那里了。我打电话给我们的朋友，他们在内部监控情况。
+76.5: 但是他们……他们都死了……他们都死了……","0: 이봐요...
+0.7: 이상한 일들이 벌어지고 있는데... 너도 알아야 할 것 같아.
+7.3: 예전에 실험을 한 적이 있어요. 우리 회사는 친구 존과 함께 관찰을 시작했어. 미친놈이었죠.
+16.3: 어쨌든, 그가 방에 들어갔고, 우리가 그를 가뒀어요. 잔인하게 들릴 수도 있겠지만 과학적인 이유 때문이었어요.
+31: 유령이 있는 밀폐된 방에 사람을 남겨두면 어떤 일이 일어날지 알아보기 위해 카메라로 그를 확인했습니다.
+38.5: 그는 계속 문을 두드리며 도와달라고 비명을 질렀지만 저는 계속 진정하라고 말했고, 과학적인 이유 때문에 그렇게 한 거예요.
+51: 제 말은, 그 사람도 똑같이 했을 거라고 확신합니다.
+55.6: 우리 전에는 아무도 이런 일을 하지 않았고, 우리 회사에 딱 맞는 일이에요. 명성... 돈...
+63.2: 어쨌든 카메라를 잠깐 쳐다봤더니 그는 사라졌어요. 그는 더 이상 거기 없었죠. 저는 안에서 상황을 지켜보고 있던 친구들에게 전화를 걸었어요.
+76.5: 하지만 그들은... 모두 죽었어요... 모두 죽었어요..."
+Subtitle_3,"0: You can't escape me
+3.5: You will never escape
+7: I will always be there
+10.5: Don't hide!","0:Du kannst mir nicht entkommen. Du wirst niemals entkommen. Ich werde immer da sein. Versteck dich nicht!
+12:DU_WIRST_STERBEN","0 : Tu ne peux pas m'échapper
+3.5 : Tu ne m'échapperas jamais
+7 : Je serai toujours là
+10.5 : Ne te cache pas !","0: No podrás escapar de mí
+3.5: Nunca escaparás
+7: Siempre estaré ahí
+10.5: ¡No te escondas!","0: Ти не можеш втекти від мене
+3.5: Ти ніколи не втечеш
+7: Я завжди буду поруч
+10.5: Не ховайся!","0: От меня не убежишь
+3,5: Ты никогда не сбежишь
+7: Я всегда буду рядом
+10.5: Не прячься!","0: あなたは私から逃れられない
+3.5：あなたは決して逃げられない
+7：私はいつもそこにいる
+10.5：隠れないで","0: 你逃不出我的手掌心
+3.5：你永远逃不掉
+7：我永远在你身边
+10.5: 不要躲藏","0: 넌 나를 피할 수 없어
+3.5: 넌 절대 도망칠 수 없어
+7: 난 항상 거기 있을 거야
+10.5: 숨지 마!"
+language_2,Language: French,Sprache: Französisch,Langue : Français,Idioma: Francés,Мова: французька,язык: Французский,言語：フランス語,语言：法语,언어: 프랑스어
+language_3,Language: Spanish,Sprache: Spanisch,Langue : Espagnol,Idioma: Español,Мова: іспанська,язык: Испанский,言語：スペイン語,语言：西班牙语,언어: 스페인어
+language_4,Language: Ukrainian,Sprache: Ukrainisch,Langue : Ukrainien,Idioma: Ucraniano,Мова: українська,язык: Украинский,言語：ウクライナ語,语言：乌克兰语,언어: 우크라이나어
+language_5,Language: Russian,Sprache: Russisch,Langue : Russe,Idioma: Ruso,Мова: російська,язык: Русский,言語：ロシア語,语言：俄语,언어: 러시아어
+language_6,Language: Japanese,Sprache: Japanisch,Langue : Japonais,Idioma: Japonés,Мова: японська,язык: Японский,言語：日本語,语言：日语,언어: 일본어
+language_7,Language: Chinese,Sprache: Chinesisch,Langue : Chinois,Idioma: Chino,Мова: китайська,язык: Китайский,言語：中国語,语言：中文,언어: 중국어
+language_8,Language: Korean,Sprache: Koreanisch,Langue : Coréen,Idioma: Coreano,Мова: корейська,язык: Корейский,言語：韓国語,语言：韩语,언어: 한국어
+information,Information,Informationen,Information,Información,Інформація,Информация,インフォメーション,信息,정보
+sanity,Sanity,Verstand,raison,sanidad,розсудливість,рассудок,正気,理智,정신
+mission,Mission,Mission,Mission,Misión,Місія,Миссия,任務,使命,미션
+esc_leave,Press again ESC to leave…,Drücken Sie erneut ESC zum Verlassen…,Appuyez à nouveau sur ESC pour quitter…,Pulse de nuevo ESC para salir…,"Натисніть ще раз ESC, щоб вийти…","Нажмите еще раз ESC, чтобы выйти…",もう一度ESCキーを押して終了する。,再次按下 ESC 离开…,ESC를 다시 눌러 나가려면…
+empty,,,,,,,,,
+empty,,,,,,,,,
